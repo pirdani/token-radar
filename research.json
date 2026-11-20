@@ -1,0 +1,3374 @@
+{
+  "sentora-curator": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Institutional curator (ex-IntoTheBlock + Trident Digital); curates PYUSD/RLUSD vaults. A guide states plainly: 'It has no token.'",
+    "points_program": "unknown",
+    "points_note": "A Medium article mentions a 'Sentora Curator Points program' but it is third-party/spammy; official terms mention Incentive Programs generally; no verified official points page found.",
+    "funding_usd": null,
+    "funding_note": "unknown - no public raise found",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": "https://sentora.com",
+    "x_handle": "@SentoraHQ",
+    "sources": [
+      "https://blog.web3wagmi.com/sentora-guide",
+      "https://sentora.com/legal/terms-of-use"
+    ],
+    "checked": "2026-11-21"
+  },
+  "steakhouse-financial": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "'No native token exists' (dappsatlas); 'Steakhouse has no token according to DefiLlama' (dappsatlas). Morpho curator behind Coinbase/Robinhood yield.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown - no public raise found",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": "https://www.steakhouse-financial.com",
+    "x_handle": null,
+    "sources": [
+      "https://blog.web3wagmi.com/steakhouse-financial-guide",
+      "https://dappsatlas.com/dapp/steakhouse-financial"
+    ],
+    "checked": "2026-11-21"
+  },
+  "gauntlet": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "The risk firm. 'Gauntlet has no token. It is a private company with venture investors and, since July 2026, a large strategic shareholder in SBI Holdings.' CAUTION: a separate game project at wiki.gntlt.net (Gauntlet arena game on Robinhood Chain) mentions a future $GNTL token and points - different project; do not conflate with the risk firm.",
+    "points_program": "no",
+    "points_note": "No points program for the risk firm (the unrelated game project has points - do not conflate).",
+    "funding_usd": 169630000,
+    "funding_note": "Approx $169.63M total (CryptoRank): Series C $125M from SBI Holdings (sole investor), 9 Jul 2026; Series B $23.8M Mar 2022 (Ribbit, $1B valuation); Series A $13.6M 2021 (Polychain); $4.3M Oct 2020 (Paradigm); $2.65M seed Oct 2018.",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://blog.web3wagmi.com/gauntlet-guide",
+      "http://cryptorank.io/ico/gauntlet-network"
+    ],
+    "checked": "2026-11-21"
+  },
+  "veda": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "'There is no VEDA token and no Veda airdrop announced... CoinGecko lists no Veda token' (web3wagmi guide).",
+    "points_program": "yes",
+    "points_note": "Veda Points campaign running in seasons since 2024 (e.g. 3x Veda Points on Lombard DeFi Vault launch Sep 2024); no statement whether points convert to a token.",
+    "funding_usd": 18000000,
+    "funding_note": "$18M, led by CoinFund, announced 23 Jun 2025; participants Coinbase Ventures, Animoca Ventures, BitGo, Mantle EcoFund, GSR, Relayer Capital, PEER VC, Draper Dragon, Credit Neutral, Neartcore, Maelstrom; angels incl. co-founders of Anchorage, Ether.fi, Polygon.",
+    "launch_signal": "'Raised only equity and has given no public signal about a launch' (web3wagmi guide).",
+    "website": "https://veda.tech",
+    "x_handle": "@veda_labs",
+    "sources": [
+      "https://cointelegraph.com/news/veda-raises-18m-defi-yield-vault-platform",
+      "https://blog.web3wagmi.com/veda-guide"
+    ],
+    "checked": "2026-11-21"
+  },
+  "usdd": {
+    "token_status": "token-exists",
+    "token_symbol": "USDD",
+    "token_note": "USDD stablecoin, live. Primary contract on TRON: TXDk8mbtRbXeYuMNS83CfKPaYYT8XWv9Hz. Also Ethereum 0x4f8e5de400de08b164e7421b3ee387f461becd1a and BNB Smart Chain 0x45e51bc23d592eb2dba86da3985299f7895d66ba (CoinGecko-sourced). NOTE: CoinDesk listed different older addresses (ETH 0x3D7975EcCFc61a2102b08925CbBa0a4D4dBB6555 / BSC 0x392004BEe213F1FF580C867359C246924f21E6Ad) - likely old/migrated; prefer the CoinGecko-sourced ones, discrepancy flagged.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "n/a - TRON DAO Reserve stablecoin, not a venture-funded protocol",
+    "launch_signal": "Token already live; no future-token question applies.",
+    "website": "https://usdd.io",
+    "x_handle": null,
+    "sources": [
+      "https://www.coingecko.com/en/coins/usdd?chart=7_days",
+      "https://www.stablecoinbeat.com/companies/tron-dao/usdd/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "nonce-capital": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "DefiLlama lists Token '-' for Nonce Capital; DappRadar lists it in its 'tokenless protocols' list. Risk curator for ether.fi Liquid vaults and Midas tokenized funds.",
+    "points_program": "unknown",
+    "points_note": "No evidence of a points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown - no public raise found",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/nonce-capital",
+      "https://dappradar.com/rewards"
+    ],
+    "checked": "2026-11-21"
+  },
+  "upshift": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "No token announced; 'Upshift hasn't announced a token or said what points are for' (zeneca.farm).",
+    "points_program": "yes",
+    "points_note": "Upshift Points Program Season 2 live (app.upshift.finance/points): 5x bonus for deposits before $750M TVL, 1x for any vault deposit; points decay over time.",
+    "funding_usd": 10000000,
+    "funding_note": "$10M+ Series A for August (company behind Upshift), led by Dragonfly, Mar 2025, with SCB Limited, 6th Man Ventures and others (The Block / Pulse 2.0 via zeneca.farm); one thread cites $16M raised total - unverified, not used as the figure.",
+    "launch_signal": "No token announced and no statement of what points are for.",
+    "website": "https://upshift.finance",
+    "x_handle": "@upshift_fi",
+    "sources": [
+      "https://app.upshift.finance/points",
+      "https://zeneca.farm/upshift"
+    ],
+    "checked": "2026-11-21"
+  },
+  "bittensor-dtao": {
+    "token_status": "token-exists",
+    "token_symbol": "TAO",
+    "token_note": "TAO is the native coin of the Bittensor chain (no token contract - native L1 asset). ~$177-193, market cap ~$2.09-2.2B, rank #38-39, circulating 11.73M / max 21M (CoinGecko data, 20 Nov 2026). dTAO is the subnet token system on Bittensor.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown - fair-launch style; no VC round found",
+    "launch_signal": "Token already live; no future-token question applies.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://www.codexai.network/coins/bittensor/",
+      "https://dextape.com/coins/bittensor"
+    ],
+    "checked": "2026-11-21"
+  },
+  "polymarket-international": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Token not yet launched. POLY token + airdrop confirmed by CMO Matthew Modabber on Degenz Live podcast, 24 Oct 2025: 'There will be a token, um, there will be an airdrop' - deliberately delayed for 'true utility and longevity'; no contract, no date, no supply details.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": 2000000000,
+    "funding_note": "Approx $2B from ICE (Intercontinental Exchange) at ~$9B post-money valuation (2025); $150M round led by Founders Fund 2025 at $1.2B valuation; earlier $205M undisclosed rounds + $55M in 2024; total disclosed before ICE ~$279M, so total disclosed approx $2.28B. Figure recorded is the ICE round; see note for full picture.",
+    "launch_signal": "See launch_signal.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://coin360.com/news/polymarket-confirms-poly-token-airdrop",
+      "https://www.theblock.co/news/business/2025-10-08-polymarket-founder-shayne-coplan-teases-potential-poly-token-373905"
+    ],
+    "checked": "2026-11-21"
+  },
+  "onre": {
+    "token_status": "token-exists",
+    "token_symbol": "ONyc",
+    "token_note": "ONyc is a yield-bearing RWA token on Solana (reinsurance underwriting exposure; ~$1.15, 11.02% APY Sep 2026, 8,936 holders Sep 2026). Contract address NOT verified - do not invent; mark unverified.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": 5000000,
+    "funding_note": "$5M Series A, co-led by Forward Industries and RockawayX, announced 5 May 2026 (GlobeNewswire); Forward separately deploying up to $25M into ONyc.",
+    "launch_signal": "Token already live; no future-token question applies.",
+    "website": "https://www.onre.finance",
+    "x_handle": "@onrefinance",
+    "sources": [
+      "https://forwardindustries.com/insights/forward-industries-and-rockawayx-co-lead-strategic-investment-in-onre-to-accelerate-onchain-reinsurance-on-solana",
+      "https://www.onre.finance/blog/onre-in-review-september-2026"
+    ],
+    "checked": "2026-11-21"
+  },
+  "rockawayx": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "DappAtlas FAQ: 'Does RockawayX have a token? No. DefiLlama...' Investment firm + risk curator (>$2B AUM claimed).",
+    "points_program": "no",
+    "points_note": "No own points program (partner Tori vault pays Tori 'Cores' points, not RockawayX's).",
+    "funding_usd": null,
+    "funding_note": "unknown - it is a fund/investor; no raise found",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": "https://rockawayx.com",
+    "x_handle": null,
+    "sources": [
+      "https://dappsatlas.com/dapp/rockawayx",
+      "https://rockawayx.com/insights/case-study-how-rockawayx-helped-fill-tori-finances-50m-ecosystem-vault-within-days"
+    ],
+    "checked": "2026-11-21"
+  },
+  "cian-yield-layer": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "CryptoRank: 'Token Expected, TGE: TBA'; DefiLlama: no native token. No CIAN token launched yet.",
+    "points_program": "yes",
+    "points_note": "Voyage Points System (CIAN Points for deposits; OAT/Ambassador/Whitelist/Proposal points; whitelist spots give eligibility for CIAN tokens upon launch).",
+    "funding_usd": null,
+    "funding_note": "unknown - CryptoRank lists 'Currently No Investors'",
+    "launch_signal": "See launch_signal.",
+    "website": "https://cian.app",
+    "x_handle": null,
+    "sources": [
+      "https://api-normal-v2.xtwlps.com/learn/articles/a-comprehensive-guide-to-cian/6936",
+      "https://cryptorank.io/price/cian"
+    ],
+    "checked": "2026-11-21"
+  },
+  "defi-saver-asset-management": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "'No. DefiLlama lists token as none, and the project does not mention a DeFi Saver token' (dappsatlas).",
+    "points_program": "no",
+    "points_note": "No points program (a 50,000 USDC incentives campaign for Hyperliquid perps exists - a prize pool, not points).",
+    "funding_usd": null,
+    "funding_note": "unknown - no public raise found",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": null,
+    "x_handle": "@DeFiSaver",
+    "sources": [
+      "https://dappsatlas.com/dapp/defi-saver-asset-management",
+      "https://www.coinlive.com/news-flash/1114074"
+    ],
+    "checked": "2026-11-21"
+  },
+  "symbiotic": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "'Symbiotic has no token. No token contract is deployed on Ethereum, and none has been announced' (DropsTab).",
+    "points_program": "yes",
+    "points_note": "Symbiotic points campaign since stealth launch 11 Jun 2024, still active, no end date; restakers earn points; no official token/airdrop commitment.",
+    "funding_usd": 34800000,
+    "funding_note": "$34.8M total: $5.8M seed 11 Jun 2024 co-led by Paradigm and cyber Fund; $29M Series A 23 Apr 2025 co-led by Pantera Capital and Coinbase Ventures, 100+ angels; Series A structured as equity with token warrants.",
+    "launch_signal": "See launch_signal.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://DropsTab.com/coins/symbiotic",
+      "https://block.cc/news/68092660025bf308525f23c0"
+    ],
+    "checked": "2026-11-21"
+  },
+  "opentrade": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "CryptoRank: 'No Token'; dappsatlas: 'There is no native token'.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": 32700000,
+    "funding_note": "$32.7M total (CryptoRank): $17M strategic 6 May 2026 led by Mercury Fund and Notion Capital, with a16z crypto, AlbionVC, CMCC Global; $7M strategic 11 Jun 2025; $4M extended seed 25 Nov 2024; $3.2M seed 9 Apr 2024; $1.5M pre-seed 4 May 2023.",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://cryptorank.io/price/open-trade",
+      "https://dappsatlas.com/dapp/opentrade"
+    ],
+    "checked": "2026-11-21"
+  },
+  "mellow-core": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Mellow Points exist, but no token. No Mellow token launched or announced.",
+    "points_program": "yes",
+    "points_note": "Mellow Points, 0.00025 points/hour per $1 deposited in any active vault; docs say they 'represent potential future value if a token distribution event or similar program is announced, though no specific conversion is guaranteed.'",
+    "funding_usd": 2750000,
+    "funding_note": "$2.75M seed, 25-26 Aug 2022, led by ParaFi Capital and Arrington Capital (Arrington XRP Capital), with Robot Ventures, Lemniscap, P2P Capital et al.",
+    "launch_signal": "See launch_signal.",
+    "website": "https://www.mellow-protocol.com",
+    "x_handle": null,
+    "sources": [
+      "https://www.mellow-protocol.com/questions/",
+      "https://defillama.com/raises/parafi-capital"
+    ],
+    "checked": "2026-11-21"
+  },
+  "hyperithm": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "'Token: None listed'. Tokyo/Seoul digital asset manager, institutional/HNW clients. NOTE: a personal-information breach was disclosed 6 Nov 2026.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": 12800000,
+    "funding_note": "Approx $12.8M total: $11M Series B 6 Aug 2021 led by Hashed and Wemade Tree, with Coinbase Ventures, Cocone, GS Futures, Guardian Fund, Samsung Next; plus $1.8M Series A 23 Jul 2019 (Kakao Investment et al.); DefiLlama records 'Total Raised $11m'.",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/hyperithm?denomination=USD",
+      "https://cryptorank.io/price/hyperithm/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "lightning-network": {
+    "token_status": "parent-has-token",
+    "token_symbol": "BTC",
+    "token_note": "Parent: Bitcoin, token BTC. No own token; the money in every channel is ordinary bitcoin.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "n/a - open protocol, no company",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://coin98.com/blog/lightning-network/",
+      "https://blog.web3wagmi.com/lightning-network-guide"
+    ],
+    "checked": "2026-11-21"
+  },
+  "bitfi-basis": {
+    "token_status": "token-exists",
+    "token_symbol": "bfUSD",
+    "token_note": "Product tokens, no governance token: issues bfUSD (yield-bearing stablecoin) and bfBTC (yield-bearing BTC LST); DefiLlama lists no native/governance token. Contracts NOT verified - mark unverified, do not invent.",
+    "points_program": "yes",
+    "points_note": "BitFi Points Program live (docs.bitfi.one): earn by holding bfBTC/bfUSD, quests, referrals, Galxe; docs state 'In the future, BitFi token airdrops will be distributed based on the total points you have earned.'",
+    "funding_usd": null,
+    "funding_note": "unknown - no public raise found",
+    "launch_signal": "See launch_signal.",
+    "website": "https://bitfi.one",
+    "x_handle": null,
+    "sources": [
+      "https://docs.bitfi.one/points-program/overview",
+      "https://dappsatlas.com/dapp/bitfi-basis"
+    ],
+    "checked": "2026-11-21"
+  },
+  "plume-vaults": {
+    "token_status": "parent-has-token",
+    "token_symbol": "PLUME",
+    "token_note": "Parent: Plume Network, token PLUME (native token of the Plume chain; trades, e.g. perps on Aster). Vaults issue receipt tokens (e.g. nOPAL).",
+    "points_program": "unknown",
+    "points_note": "No evidence of a points program found.",
+    "funding_usd": 30000000,
+    "funding_note": "Parent Plume Network, $30M+ disclosed: $10M seed May 2024 led by Haun Ventures; $20M Series A Dec 2024 led by Brevan Howard Digital, Haun, Galaxy, Lightspeed Faction; plus undisclosed strategic rounds (YZi Labs, Apollo, Animoca, LayerZero, Hyperithm).",
+    "launch_signal": "Parent token already live; no future-token question applies.",
+    "website": null,
+    "x_handle": "@plumenetwork",
+    "sources": [
+      "https://www.clay.com/dossier/plume-network-funding",
+      "https://bsc.news/news/plume-network-q3-vaults-nopal-shinhan-dtcc"
+    ],
+    "checked": "2026-11-21"
+  },
+  "k3-capital": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Own FAQ (k3-capital.net): 'As of the current version, K3 Capital does not have a publicly traded governance token.'",
+    "points_program": "unknown",
+    "points_note": "No evidence of a points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown - no public raise found",
+    "launch_signal": "See launch_signal (weak signal only).",
+    "website": "https://k3.capital",
+    "x_handle": "@k3_capital",
+    "sources": [
+      "https://www.k3-capital.net/questions/",
+      "https://github.com/tradingstrategy-ai/web3-ethereum-defi/commit/3d75652a1e4c36f97f44ac55b07c67a65c1ae661"
+    ],
+    "checked": "2026-11-21"
+  },
+  "hive-protocol": {
+    "token_status": "parent-has-token",
+    "token_symbol": "B2",
+    "token_note": "DefiLlama description: 'Stake BTC, safeguard B2, and receive $B2 Tokens' - this is B2 Network's Hive staking protocol; parent B2 Network, token B2. CAUTION: search results are polluted by the unrelated Hive blockchain (HIVE token, ~$0.0345, Binance) and by a near-worthless 'Hive Protocol (HIVE)' CoinGecko listing (~$0.000002, mcap ~$1,737); DefiLlama's own 'Total Raised $295.37m / ICO Jul 2017' figures appear mixed with Hive-chain data - do NOT use those funding figures.",
+    "points_program": "unknown",
+    "points_note": "No evidence of a points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown - published figures are contaminated by Hive-chain data (see token_note); not used",
+    "launch_signal": "Parent token already live; no future-token question applies.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/hive-protocol",
+      "https://alphagrowth.io/hive-protocol-089"
+    ],
+    "checked": "2026-11-21"
+  },
+  "r25": {
+    "token_status": "token-exists",
+    "token_symbol": "RCUSDP",
+    "token_note": "Product token, no governance token: issues RCUSDP, a tokenized money-market fund share on Sui (pool APY 8.33%, $8.29M); vault receipt tokens on Pharos. No governance token found. Contract unverified - do not invent.",
+    "points_program": "yes",
+    "points_note": "'R25 Season 2: Subscribe to Share $200k PROS Rewards' (Pharos PROS rewards campaign, seen in a Facebook post Oct 2026).",
+    "funding_usd": null,
+    "funding_note": "unknown - no public raise found",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future (governance) token found.",
+    "website": "https://r25.xyz",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/r25",
+      "https://aprscope.com/protocols/r25/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "figure-markets-prime": {
+    "token_status": "parent-has-token",
+    "token_symbol": "HASH",
+    "token_note": "Parent: Provenance blockchain, native token HASH (100B total supply, dynamic inflation/burn; staking, governance, tx fees; trades on Figure Markets and Osmosis). Figure Markets also issues YLDS (first SEC-registered interest-bearing stablecoin, ~3.79% APY).",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": 60000000,
+    "funding_note": "Figure Markets $60M Series A Mar 2024 led by Pantera Capital, Lightspeed Venture, Jump Crypto; parent Figure ~$618M total raised (Ribbit, DCM, DST Global, DCG, Morgan Creek, 10T, Blockchain.com, Sixth Street); Figure went public on Nasdaq as $FIGR Sep 2025.",
+    "launch_signal": "Parent token already live; no future-token question applies.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://www.gate.com/learn/articles/figure-markets-leads-the-way-with-the-first-sec-approved-interest-bearing-stablecoin/8054"
+    ],
+    "checked": "2026-11-21"
+  },
+  "b14g": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Modular dual-staking layer for Bitcoin (BTC + native token secure networks); rewards paid in BTC/BABY from Babylon; no own token found in sources. NOTE: b14g lost $1.47M in a 'zero-withdrawal exploit' 31 Oct-2 Nov 2026; contracts paused 66 minutes later (BitcoinValues news).",
+    "points_program": "unknown",
+    "points_note": "No evidence of a points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown - no public raise found",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/b14g",
+      "https://bitcoinvalues.net/dapps/b14g/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "clearstar": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Risk curator (Clearstar Labs, clearstar.xyz); vault receipt tokens (CSUSDC, COUSDC, upXRP) are Morpho/Upshift vault shares, not a Clearstar token.",
+    "points_program": "unknown",
+    "points_note": "No evidence of a points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown - no public raise found",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": "https://clearstar.xyz",
+    "x_handle": "@ClearstarLabs",
+    "sources": [
+      "https://www.upshift.finance/blog/upshift-is-live-on-base-clearstar-cbxrp-yield-vault",
+      "https://morphowatch.com/vaults/base/clearstar-base-rwa/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "saturn": {
+    "token_status": "token-exists",
+    "token_symbol": "USDat",
+    "token_note": "Product tokens, no governance token: dual-token system - USDat (non-yield stablecoin, 100% backed by tokenized US Treasuries via M0) and sUSDat (staked version, yield from Strategy's STRC preferred-stock dividends, ~10% APY). Contracts unverified - do not invent.",
+    "points_program": "yes",
+    "points_note": "Season 1 'Gravity Points' (holding USDat/sUSDat, Curve 7x, USDat/USDC LP up to 20x); ends when TVL hits $500M or 8 Aug 2026, whichever first; official statement: points 'will serve as an important reference for potential future token airdrops or reward distributions.'",
+    "funding_usd": 800000,
+    "funding_note": "$800,000 from YZi Labs and Sora Ventures, plus angels (CoinGecko); incubated by YZi Labs; backed by Spartan Group and Susquehanna per a Substack (unverified).",
+    "launch_signal": "See launch_signal.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://www.coingecko.com/learn/strategy-strc-defi-strc-yield-saturn-pendle",
+      "https://global.foresightnews.pro/article/15486"
+    ],
+    "checked": "2026-11-21"
+  },
+  "lagoon": {
+    "token_status": "token-exists",
+    "token_symbol": "LAGOON",
+    "token_note": "UNVERIFIED - flag carefully: a LAGOON token trades on Uniswap V3 (Base) LAGOON/WETH and PancakeSwap v2 LAGOON/BNB per Bitget guide, market cap ~$3,314 (tiny); a Solana 'Lagoon Finance (LAGOON)' token exists at HW5oiEkUr1q8mBiYQUKvA4v8JDUhW6e8sCgcwpjopump (pump-style address). No official token announcement or verified contract found; DefiLlama records no token; the traded token may be unofficial/copycat. Treat as token-exists only in the weak sense that a token with this name trades; re-verify before using in the entry.",
+    "points_program": "unknown",
+    "points_note": "No evidence of a points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown - no public raise found",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://web3.bitget.com/dapp/lagoon-25225",
+      "https://solscan.io/token/HW5oiEkUr1q8mBiYQUKvA4v8JDUhW6e8sCgcwpjopump",
+      "https://cryptorank.io/price/lagoon-finance"
+    ],
+    "checked": "2026-11-21"
+  },
+  "theo-network-thusd": {
+    "token_status": "token-exists",
+    "token_symbol": "thUSD",
+    "token_note": "Product tokens, no governance token: thUSD is a yield-bearing stablecoin (gold-linked, collateralised by thGOLD + thBILL); also thBILL, thGOLD, thSLVR product tokens. No governance token announced. Contracts unverified - do not invent.",
+    "points_program": "yes",
+    "points_note": "Theo points from holding/staking thUSD and vaults (Core 3-month lock, Core+, Boost 6-month locks), started 25 Jun 2026; thBILL Season 1 ended 19 Jun 2026.",
+    "funding_usd": 20000000,
+    "funding_note": "$20M: $4.5M seed led by Manifold Trading Mar 2024; $15.5M round Apr 2025 jointly led by Hack VC and Anthos Capital, with Mirana, Metalayer, Flowdesk, SCB, MEXC, Amber Group, Selini; angels from Citadel, Jane Street, JPMorgan etc. Also a $100M structured facility backing thUSD (Jan 2026, per CertiK timeline) - keep separate from equity raised.",
+    "launch_signal": "See launch_signal.",
+    "website": null,
+    "x_handle": "@Theo_Network",
+    "sources": [
+      "https://zeneca.farm/theo",
+      "https://aap.com.au/aapreleases/cision20250424ae72319/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "curvance": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "CVE is described in docs as the governance token but NOT launched: no contract in the official Monad registry, no TGE/snapshot/claim page as of 26 Oct 2026 check. No token exists today.",
+    "points_program": "yes",
+    "points_note": "'Bytes' points since Nov 2025 (deposits, loans, settlements earn Bytes; rank on the app's Bytes page); no published conversion.",
+    "funding_usd": 7600000,
+    "funding_note": "Approx $7.6M: $3.6M seed (DeFi founders/angels); a $4M strategic round reported Nov 2025 (dappsatlas).",
+    "launch_signal": "See launch_signal.",
+    "website": null,
+    "x_handle": "@Curvance",
+    "sources": [
+      "https://boxmining.com/curvance-cve-token-airdrop-guide/",
+      "https://zeneca.farm/curvance"
+    ],
+    "checked": "2026-11-21"
+  },
+  "figure-markets-exchange": {
+    "token_status": "parent-has-token",
+    "token_symbol": "HASH",
+    "token_note": "Same parent as Figure Markets Prime: Provenance blockchain, native token HASH (100B supply); YLDS stablecoin also issued by Figure Markets (mcap $409.85M across 3 chains, mostly Provenance, as of 20 Nov 2026).",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": 60000000,
+    "funding_note": "Figure Markets $60M Series A Mar 2024 (Pantera, Lightspeed, Jump); parent Figure ~$618M total raised; IPO Nasdaq $FIGR 11 Sep 2025.",
+    "launch_signal": "Parent token already live; no future-token question applies.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://www.gate.com/learn/articles/figure-markets-leads-the-way-with-the-first-sec-approved-interest-bearing-stablecoin/8054",
+      "https://defillama.com/stablecoin/ylds"
+    ],
+    "checked": "2026-11-21"
+  },
+  "galaxy-curation": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Galaxy Curator is Galaxy Digital's (Nasdaq: GLXY) institutional vault curation offering on Morpho, launched 16 Jul 2026; vaults via Fireblocks Earn; no token listed. Parent Galaxy Digital is a public company with stock GLXY - that is equity, not a crypto token; do not mark parent-has-token.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "n/a - product of a public company; no raise for the product",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": "https://curation.galaxy.com",
+    "x_handle": null,
+    "sources": [
+      "https://Www.Stockwatch.com/News/Item/Z-C!GLXY-3841841/C/GLXY",
+      "https://skybitcoins.com/dapp/galaxy-curation"
+    ],
+    "checked": "2026-11-21"
+  },
+  "tydro": {
+    "token_status": "parent-has-token",
+    "token_symbol": "INK",
+    "token_note": "Parent chain: Ink (Kraken's L2); INK is Ink's native token (1B hard cap, TGE expected H2 2026 per guides - some guides said Q3 2026, dates conflict, report as expected 2026, unconfirmed). Tydro itself has no token; Tydro Points are claims on the first INK airdrop. Note: markets halted May 2026 after a suspected attack; moving to a new oracle with a 48h timelock.",
+    "points_program": "yes",
+    "points_note": "Tydro Points / Ink Points: Season 2 live; supplying/borrowing earns points that 'represent claims on the first airdrop' of INK (Ink chain's native token).",
+    "funding_usd": null,
+    "funding_note": "unknown for Tydro itself - Kraken committed $250M+ initial liquidity for the ecosystem's first DeFi protocol; that is liquidity, not a raise; do not record as funding",
+    "launch_signal": "See launch_signal.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://www.btcc.com/en-US/square/coincentral/1072456",
+      "https://dappsatlas.com/dapp/tydro",
+      "https://earlyairdrops.com/ink-airdrop-guide-ink-eligibility-kraken-drops-and-ecosystem-rewards-explained/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "valos": {
+    "token_status": "token-exists",
+    "token_symbol": "vUSD",
+    "token_note": "Product token, no governance token: vUSD is an ERC-4626 vault receipt token on Monad ($106M supply, 6.5% 30d yield, backed by private-credit receivables - Valos lends to market makers/prime brokers/exchanges/custodians); KYC, $100k AUSD minimum, permissioned. Contract address NOT verified - a source truncates it as 0x8d3f...c365; do not publish a partial address. No governance token found.",
+    "points_program": "unknown",
+    "points_note": "A Merkl rewards campaign 'Supply vUSD on Valos vUSD/AUSD Market vault' appears in rewards calendars - incentives, not a Valos points program; mark unknown.",
+    "funding_usd": null,
+    "funding_note": "unknown - no public raise found",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future (governance) token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://privatecredit.therawbyte.com/token/vUSD?tab=holders",
+      "https://tradingstrategy.ai/trading-view/vaults/rwa-backed-lending-by-valos"
+    ],
+    "checked": "2026-11-21"
+  },
+  "armitage-by-wintermute": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "'Market cap - no token listed' (crypto-jazz); DefiLlama lists no token. Wintermute's onchain vault curation arm on Morpho (Ethereum only), launched ~19-20 May 2026; vaults: Prime/Select USDC/USDT, Pendle USDC ecosystem vaults, Confidential WBTC vault.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown for Armitage itself - parent Wintermute raised $20M Series B Jan 2021 (UsePulse); that is the parent trading firm, keep separate; not attributed to Armitage",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/armitage-by-wintermute",
+      "http://crypto-jazz.com/projects/armitage-by-wintermute/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "lofty": {
+    "token_status": "token-exists",
+    "token_symbol": null,
+    "token_note": "Product tokens, no platform/governance token: fractional US rental real estate tokenized as Algorand Standard Assets (ASAs); each property is a Wyoming LLC, $50 minimum tokens, daily rent in USDC, DAO-style voting (one token = one vote per property). No LOFTY platform token found - property tokens are per-property equity tokens, not a single protocol token; do not invent a LOFTY ticker.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown - no public raise found",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://coinpaprika.com/education/invest-tokenized-real-estate",
+      "https://getblock.io/marketplace/projects/lofty/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "extended-perps": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "No token yet; XTEN announced but NOT launched as of 20 Nov 2026. XTEN announced 23 Oct 2026 (official X/Telegram): ticker XTEN, genesis supply 1B, 300M (30%) for eligible Extended Points participants, TGE planned November 2026 (subject to regulatory timelines), MiCA white paper expected 31 Oct 2026; claiming NOT open; Xpoints holders must sign terms in app 11 Nov-31 Dec 2026; each Xpoint approx 4.2857 XTEN per one guide. Recheck before use - TGE may have happened after 20 Nov 2026.",
+    "points_program": "yes",
+    "points_note": "Extended Points program, capped at 70M points; weekly drops ended; 'The Final Arc' closed 2 Nov 2026 (250k USDC + 750k Xpoints).",
+    "funding_usd": null,
+    "funding_note": "unknown - no public raise found",
+    "launch_signal": "See launch_signal.",
+    "website": "https://extended.exchange",
+    "x_handle": "@extendedapp",
+    "sources": [
+      "https://www.coindaro.com/airdrops/extended-exchange-airdrop-xten/",
+      "https://dineroenlamesa.com/en/farming/extended/",
+      "https://tradercomps.com/trading-platforms/extended"
+    ],
+    "checked": "2026-11-21"
+  },
+  "avant-avusd": {
+    "token_status": "token-exists",
+    "token_symbol": "avUSD",
+    "token_note": "Product tokens; governance token AVANT announced but NOT yet issued. avUSD is a yield-bearing synthetic dollar (mcap $91.11M, mostly Avalanche, 20 Nov 2026); also savUSD/savETH/savBTC senior tranches, avUSDx junior tranches. AVANT: Season 1 points (ran until 15 May 2026) converted into AVANT, TGE 'to be announced'; protocol buyback at fixed $0.025/AVANT (implies ~1B supply, $25M FDV = seed valuation), budget at least $250K, paid in avUSD; no Season 2 announced. Note: AVNT is Avantis (now Veranta), a DIFFERENT protocol - do not confuse. Contracts unverified - do not invent.",
+    "points_program": "yes",
+    "points_note": "Season 1 points program (ended 15 May 2026); points converted into AVANT (TGE TBA).",
+    "funding_usd": null,
+    "funding_note": "unknown dollar amount - seed round at $25M pre-money valuation (implied by buyback price); no dollar amount published in sources, do not state a seed $ figure",
+    "launch_signal": "See launch_signal.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://www.capital-layer.fund/en/research/inbox-2026-10-30-1226-e5ed7c1e/",
+      "https://defillama.com/stablecoin/avant-usd"
+    ],
+    "checked": "2026-11-21"
+  },
+  "doppler-finance": {
+    "token_status": "token-exists",
+    "token_symbol": "XDP",
+    "token_note": "XDP, native utility/governance token, launched 28 Sep 2026; total supply 10B; ~$0.01927 (CoinGecko, ~20 Nov 2026), mcap ~$14M, circulating 1B; trades on KuCoin, OKX, Kraken, Base DEXes. Contract from Phantom token page - sourced, double-check before publishing. Genesis Airdrop claim window 28 Sep-28 Nov 2026 12:00 UTC (1% of supply, 100M XDP, fully unlocked). Token contract: 0x07b3d902783c3c12b077508c3b5c00113d1291d0 (Base).",
+    "points_program": "yes",
+    "points_note": "Doppler Points Season 3 live (0.01 DP per $1/hour on vault deposits; XDP staking earns 20x).",
+    "funding_usd": 3000000,
+    "funding_note": "$3M seed Aug 2025 led by Reforge, with DCG, Maven 11, HashKey Capital, GSR, CMCC Global Titan Fund, Keyrock, Tenity, CRIT Ventures, Cluster Capital, Flowdesk, Auros, G20 Group.",
+    "launch_signal": "Token already live; no future-token question applies.",
+    "website": "https://doppler.finance",
+    "x_handle": "@doppler_fi",
+    "sources": [
+      "https://www.htx.com/tokens/xdp/",
+      "https://phantom.com/tokens/base/0x07b3d902783c3c12b077508c3b5c00113d1291d0",
+      "https://www.airdropstop.com/airdrops/doppler-finance"
+    ],
+    "checked": "2026-11-21"
+  },
+  "ember": {
+    "token_status": "token-exists",
+    "token_symbol": null,
+    "token_note": "Product/vault receipt tokens only; no single governance token found. Ember Protocol is an RWA tokenization rail/operator; vaults issue ERC-4626 receipt tokens (e.g. PPLUS for Bitwise Premium+ RWA Vault, eTPLUS). No EMBER governance token verified (an old 2020 Prometheum SEC filing mentions planned 'Ember Tokens' for a different Prometheum network - unrelated/legacy, do not use).",
+    "points_program": "unknown",
+    "points_note": "No evidence of a points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown - no rounds on record (X-RAY)",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future (governance) token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://onchain.bitwiseinvestments.com/vaults/pplus",
+      "https://defillama.com/rwa/asset/eTPLUS",
+      "https://x-ray.me/compare/ember-protocol-vs-opentrade"
+    ],
+    "checked": "2026-11-21"
+  },
+  "stellar-defi-hub": {
+    "token_status": "parent-has-token",
+    "token_symbol": "XLM",
+    "token_note": "Parent: Stellar chain, native token XLM (~$0.127, mcap ~$4.5B, 20 Nov 2026). The hub is a vault platform on Stellar (deposit Stellar-based assets into vaults, accrue rewards); no own token found. DefiLlama lists it as 'Part of Sentora'.",
+    "points_program": "unknown",
+    "points_note": "Vault rewards accrue; no points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown - no public raise found (part of Sentora; Sentora funding also unknown)",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/stellar-defi-hub",
+      "https://defillama.com/universal-token-rating/token/stellar"
+    ],
+    "checked": "2026-11-21"
+  },
+  "keyrock": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Private crypto market maker / neo investment group (Brussels, founded 2017); no token. No token mentioned in any funding coverage.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": 76400000,
+    "funding_note": "Approx $76.4M total (SetterVC): Series C Mar 31 2026 led by SC Ventures, Ripple participating, up to $100M rolling close, $1.1B valuation; Series B $72M Sep 2022 led by Ripple; Series A $5.05M Oct 2020 led by SIX Fintech Ventures and MiddleGame Ventures.",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://settervc.com/company/keyrock/",
+      "https://www.coinlive.com/news-flash/1085029"
+    ],
+    "checked": "2026-11-21"
+  },
+  "noble": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Gate: 'Noble has not issued a native token.' Noble is a Cosmos SDK appchain for native stablecoin/RWA issuance (USDC, USDY, EURe, Noble Dollar); validators are incentivized via a transaction fee model. NOTE: Circle is ending USDC on Noble - new minting stopped 13 Oct 2026, redemptions until 12 Jan 2027, access ends 13 Jan 2027.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": 18300000,
+    "funding_note": "$18.3M total: $3.3M seed Oct 2023 led by Polychain, with Borderless Capital, Wintermute, Circle Ventures, CMCC Global, Hustle Fund, Interop Ventures; $15M Series A Nov 2024 led by Paradigm, with Wintermute, Foresight Ventures, Polychain, Informal Systems, and angels from Celestia, Skip Protocol, Succinct, Conduit.",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://www.gate.com/learn/articles/noble-focusing-on-stablecoin-asset-issuance-deepening-liquidity-in-the-cosmos-ecosystem/6331",
+      "https://dappsatlas.com/dapp/noble"
+    ],
+    "checked": "2026-11-21"
+  },
+  "tori-finance": {
+    "token_status": "token-exists",
+    "token_symbol": "trUSD",
+    "token_note": "Product tokens, no governance token: trUSD is a synthetic dollar (~$0.997, mcap ~$77.2M, supply ~77.37M, 20 Nov 2026), collateralized by delta-neutral trading positions, redeemable for USDC/USDT by eligible users; strUSD is staked trUSD (ERC-4626 vault share). No governance token found. Contract addresses NOT verified in sources - do not invent.",
+    "points_program": "yes",
+    "points_note": "Cores points program per official docs (docs.tori.finance/resources/cores.md): earned by holding trUSD, staking strUSD, and DeFi integrations; docs explicitly state 'They are not a promise of any token or payment.'",
+    "funding_usd": null,
+    "funding_note": "unknown - the $50M pre-deposit reported Jul 2026 was user deposits into the strUSD pre-deposit vault, not equity; do not count as funding; no equity raise found",
+    "launch_signal": "See launch_signal.",
+    "website": "https://tori.finance",
+    "x_handle": "@tori_finance",
+    "sources": [
+      "https://docs.tori.finance/llms.txt",
+      "https://holder.io/coins/trusd/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "loopscale-lending": {
+    "token_status": "parent-has-token",
+    "token_symbol": "ORCA",
+    "token_note": "Parent: Formation (Loopscale merged with Orca). Official docs: 'Loopscale will not launch its own token; ORCA is the token for all of Formation, including Loopscale.'",
+    "points_program": "yes",
+    "points_note": "Loopscale Points: lending, borrowing, looping, referrals; docs say points 'will convert later this year' (2026), details to be announced.",
+    "funding_usd": 4250000,
+    "funding_note": "$4.25M in 2021 when known as Bridgesplit, from CoinFund, Jump, Coinbase Ventures, Solana Ventures, Room40 (per official FAQ).",
+    "launch_signal": "See launch_signal.",
+    "website": null,
+    "x_handle": "@Loopscale",
+    "sources": [
+      "https://docs.loopscale.com/resources/formation",
+      "https://docs.loopscale.com/resources/faq"
+    ],
+    "checked": "2026-11-21"
+  },
+  "infinifi": {
+    "token_status": "token-exists",
+    "token_symbol": "INFI",
+    "token_note": "INFI TGE went live 17 Nov 2026 15:30 UTC on Ethereum and Base; trading on Gate, OKX, Kraken, KuCoin, Aerodrome. Ethereum contract 0xf40C07D7cd45F291B93cA674Db66a15C8a98957E; Base contract 0x9f4c76F421f47b3C234f841F477897f1D895177D. Contracts from airdrops.io - sourced, verify against official channels before publishing. Also iUSD receipt token, siUSD (staked), liUSD (locked), wINFI (locked INFI). NOTE: DefiLlama's sealed 14 Nov 2026 snapshot predates this TGE by 3 days - this is exactly the kind of miss the bounty warns about.",
+    "points_program": "yes",
+    "points_note": "Season 3 points live (minting/holding iUSD 15x, staking/locking 7.5x); Seasons 1-2 airdrop sent to registered wallets at TGE; Season 3 ends with its own INFI distribution.",
+    "funding_usd": 6000000,
+    "funding_note": "$6M+: $3M pre-seed Feb 2025 + $3M+ seed Sep 2026, both led by Electric Capital (zeneca.farm).",
+    "launch_signal": "Token already live (TGE 17 Nov 2026); no future-token question applies.",
+    "website": null,
+    "x_handle": "@infiniFi_",
+    "sources": [
+      "https://airdrops.io/infinifi/",
+      "https://zeneca.farm/infinifi"
+    ],
+    "checked": "2026-11-21"
+  },
+  "axis": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "The DeFi Axis (DefiLlama slug 'axis', basis trading on Plasma, USDx asset) has no token yet. NAME COLLISION - do NOT conflate: the AXIS token found in search (ERC-20 on Base, contract 0x5bE75e3b0aFf5D1A042A5363Ae36AcB1d6d755ea, TGE Oct 2026, ~$0.092, 1B supply) belongs to Axis Robotics, a Physical AI data network - a different project.",
+    "points_program": "unknown",
+    "points_note": "No points program found for the DeFi Axis (the robotics project's points are a different project - do not conflate).",
+    "funding_usd": 5000000,
+    "funding_note": "$5M private round led by Galaxy Ventures, for the basis-trading Axis on Plasma; USDx asset planned, Origin Vault targeting $1B deposits before a 2026 launch.",
+    "launch_signal": "See launch_signal.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://www.btcc.com/en-AU/square/coincentral/1240369",
+      "https://www.coindesk.com/price/axis-token"
+    ],
+    "checked": "2026-11-21"
+  },
+  "ipor-fusion": {
+    "token_status": "token-exists",
+    "token_symbol": "IPOR",
+    "token_note": "Official docs describe the IPOR token as live (liquidity mining, staking, 'IPOR tokens can be bought on secondary markets such as Uniswap'), and IPOR Fusion Points launched 24 Oct 2025. BUT DefiLlama records no token and dappsatlas says 'No governance or utility token is listed' - discrepancy flagged; contract address not verified in sources, do not invent. Re-verify on CoinGecko before using in the entry.",
+    "points_program": "yes",
+    "points_note": "IPOR Fusion Points, introduced 24 Oct 2025, rewarding Fusion and IPOR AMM ecosystem participants.",
+    "funding_usd": null,
+    "funding_note": "unknown - no public raise found",
+    "launch_signal": "Per official docs the token is live; see discrepancy note in token_note.",
+    "website": "https://ipor.io",
+    "x_handle": null,
+    "sources": [
+      "https://ipor.io/docs/dao-governance/tokenomics/usdipor-token-legacy/liquidity-mining",
+      "https://ipor.io/news",
+      "https://dappsatlas.com/dapp/ipor-derivatives"
+    ],
+    "checked": "2026-11-21"
+  },
+  "circle-gateway": {
+    "token_status": "parent-has-token",
+    "token_symbol": "USDC",
+    "token_note": "Parent: Circle (NYSE: CRCL - equity, not a crypto token). Gateway is a cross-chain USDC product (CCTP/Gateway on Arc). USDC is Circle's regulated dollar stablecoin (~$68.3B mcap; EURC ~$501M).",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": 1100000000,
+    "funding_note": "Circle ~$1.1B total equity raised (Sacra): $440M May 2021, $400M Apr 2022, $110M May 2018 (Bitmain), plus earlier rounds; NYSE IPO Jun 4 2025 raised ~$1.05-1.2B; plus $100M growth round Sep 2026 led by Binance. Key investors: BlackRock, Fidelity, General Catalyst, Accel, Goldman Sachs, Marshall Wace.",
+    "launch_signal": "Parent token already live; no future-token question applies.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://sacra.com/c/circle/",
+      "https://www.stablecoinbeat.com/companies/circle/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "reti-pooling": {
+    "token_status": "parent-has-token",
+    "token_symbol": "ALGO",
+    "token_note": "Parent: Algorand, native token ALGO (10B max supply). Reti Pooling is a decentralized, non-custodial staking-pool protocol (TxnLab); rewards are ALGO staking rewards. dappsatlas: 'has no token.' No RETI token.",
+    "points_program": "no",
+    "points_note": "No points program - rewards are ALGO staking rewards, not points.",
+    "funding_usd": null,
+    "funding_note": "unknown - no public raise found",
+    "launch_signal": "No public statement, docs page, or roadmap hint about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://dappsatlas.com/dapp/reti-pooling",
+      "https://txnlab.gitbook.io/reti-open-pooling/~gitbook/pdf?limit=100"
+    ],
+    "checked": "2026-11-21"
+  },
+  "gami-labs": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Risk curator; vaults include FXRP MetaVault on Flare via Spectra. AlphaGrowth shows market cap '—'; no token evidence found in public sources.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": null,
+    "funding_note": "No funding round publicly reported.",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/gami-labs"
+    ],
+    "checked": "2026-11-21"
+  },
+  "arcus-perps": {
+    "token_status": "parent-has-token",
+    "token_symbol": "DYDX",
+    "token_note": "Arcus itself has no token yet; parent dYdX Labs has DYDX. dYdX confirmed a future Arcus token with an allocation to the dYdX community.",
+    "points_program": "yes",
+    "points_note": "Arcus Points Season 1 live since 1 Oct 2026, 250,000 points/week; ends by H1 2027.",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "Confirmed future Arcus token with dYdX community allocation; no TGE date.",
+    "website": "https://arcus.xyz",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/arcus-perps",
+      "https://dexwatch.com/guides/perp-dex-points-programs/",
+      "https://airdrops.io/arcus/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "yuzu-money": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "$YUZU planned but not launched; no TGE date or tokenomics published. yzUSD (0x6695c0f8706c5ace3bdf8995073179cca47926dc on Plasma) is the protocol's yield stablecoin, not a governance token.",
+    "points_program": "yes",
+    "points_note": "Yuzu Juice live since 30 Oct 2025; team confirmed Juice converts linearly to $YUZU at TGE.",
+    "funding_usd": null,
+    "funding_note": "Investors named (Taisu Ventures, Musha Ventures) but amounts undisclosed.",
+    "launch_signal": "Team confirmed $YUZU at TGE; no date published.",
+    "website": "https://yuzu.money",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/yuzu-money",
+      "https://drops.bot/airdrops/upcoming/yuzu",
+      "https://cryptorank.io/price/yuzu-money"
+    ],
+    "checked": "2026-11-21"
+  },
+  "usdcx": {
+    "token_status": "wrapped-staked-product",
+    "token_symbol": "USDCx",
+    "token_note": "USDCx wraps USDC 1:1 via Circle xReserve; issued on Aleo, Cardano, Stacks, Movement and Miden. No governance token.",
+    "points_program": "no",
+    "points_note": "No points program; a wrapper product.",
+    "funding_usd": null,
+    "funding_note": "Circle product; no separate raise reported for USDCx.",
+    "launch_signal": "No governance token planned; wrapper only.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/usdcx"
+    ],
+    "checked": "2026-11-21"
+  },
+  "solv-strategies": {
+    "token_status": "parent-has-token",
+    "token_symbol": "SOLV",
+    "token_note": "Parent Solv Protocol has SOLV (BSC, max supply 8.4B per BscScan). Solv Strategies itself issues no separate token. Token contract: 0xabe8e5cabe24cb36df9540088fd7ce1175b9bc52 (Binance Smart Chain).",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "Parent token already exists; no separate Solv Strategies token announced.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/solv-strategies",
+      "https://bscscan.com/token/0xabe8e5cabe24cb36df9540088fd7ce1175b9bc52"
+    ],
+    "checked": "2026-11-21"
+  },
+  "mezo-earn": {
+    "token_status": "parent-has-token",
+    "token_symbol": "MEZO",
+    "token_note": "Parent Mezo has MEZO token; airdrop registration opened 29 Dec 2025. MUSD is Mezo's BTC-backed stablecoin, not a governance token.",
+    "points_program": "yes",
+    "points_note": "'mats' points system for bridging, Earn deposits, veBTC and borrowing MUSD.",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "Parent token MEZO already exists; no separate Mezo Earn token announced.",
+    "website": "https://mezo.org",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/mezo-earn"
+    ],
+    "checked": "2026-11-21"
+  },
+  "tulipa-capital": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Risk curator; no token, points or funding found in public sources.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": null,
+    "funding_note": "No funding round publicly reported.",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/tulipa-capital"
+    ],
+    "checked": "2026-11-21"
+  },
+  "azverse-perps": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Perp DEX; 'Token, none yet' per arb.sh.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": null,
+    "funding_note": "No funding round publicly reported.",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": "@AZverse_xyz",
+    "sources": [
+      "https://defillama.com/protocol/azverse-perps"
+    ],
+    "checked": "2026-11-21"
+  },
+  "firelight": {
+    "token_status": "wrapped-staked-product",
+    "token_symbol": "stXRP",
+    "token_note": "Issues stXRP, a liquid receipt token for FXRP/XRP staked on Flare; no governance token. Incubated by Sentora.",
+    "points_program": "yes",
+    "points_note": "Firelight Points for early vault participants.",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "No public statement about a future governance token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/firelight",
+      "https://flare.network/news/firelight-is-live-backed-by-staked-fxrp-on-flare"
+    ],
+    "checked": "2026-11-21"
+  },
+  "nado-spot": {
+    "token_status": "parent-has-token",
+    "token_symbol": "INK",
+    "token_note": "Parent Ink Foundation has INK (pre-TGE per sources); Nado points were to convert to INK. Built by Kraken team / ex-Vertex, on Ink.",
+    "points_program": "yes",
+    "points_note": "Nado points program ENDED 12 Nov 2026; ~33.2M points to 45k+ users over 51 weeks; now weekly cash rewards instead.",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "INK is pre-TGE; Nado points were positioned to convert to INK.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/nado-spot",
+      "https://dineroenlamesa.com/en/farming/nado/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "current": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Sui lending protocol; no token evidence found. Distinct from Suilend (SEND) — do not confuse.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": null,
+    "funding_note": "No funding round publicly reported.",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/current"
+    ],
+    "checked": "2026-11-21"
+  },
+  "project-0": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Formerly marginfi (Solana); no token launched as of Nov 2026 despite a proposed token.",
+    "points_program": "yes",
+    "points_note": "MRGN points carried over 1:1; require a live deposit in the Project 0 app.",
+    "funding_usd": null,
+    "funding_note": "Backers named: Pantera Capital, Multicoin Capital, Solana Ventures; amounts not verified.",
+    "launch_signal": "Team proposed a token (20/20/20/20/20 split: community/user incentives/team/investors/foundation), intended 2025, not launched.",
+    "website": "https://0.xyz",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/project-0",
+      "https://docs.marginfi.com",
+      "https://solanacompass.com/projects/marginfi"
+    ],
+    "checked": "2026-11-21"
+  },
+  "arrakis-modular": {
+    "token_status": "token-exists",
+    "token_symbol": "SPICE",
+    "token_note": "SPICE was announced and airdropped to Arrakis users and GEL holders (2023); total supply reported 30M. Official docs do not mention it and no live market data found. A candidate Polygon contract 'Spice' (0xa1219b150b29Bb540154CD1DD129a7D8F19A30cC) shows 350M initial supply in code, conflicting with the 30M claim — NOT confirmed as the token contract.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "Token already exists (SPICE); no new launch signal.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/arrakis-modular"
+    ],
+    "checked": "2026-11-21"
+  },
+  "shift-defi": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "AMBIGUOUS: DefiLlama 'shift-defi' (Ethereum only, listed 2026-09-30) vs 'Shift Protocol' perp vaults (no token per dappsatlas) vs SHIFT RWA protocol (docs mention a future SHFT token). These may be different entities; do not merge.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": null,
+    "funding_note": "No funding round publicly reported.",
+    "launch_signal": "Identity ambiguous; a similarly-named RWA protocol mentions a future SHFT token, unverified as the same entity.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/shift-defi"
+    ],
+    "checked": "2026-11-21"
+  },
+  "re7-labs": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Risk curator/adviser; no token, points or funding found in public sources.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": null,
+    "funding_note": "No funding round publicly reported.",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/re7-labs"
+    ],
+    "checked": "2026-11-21"
+  },
+  "vishwa": {
+    "token_status": "wrapped-staked-product",
+    "token_symbol": "BTCvc",
+    "token_note": "Issues BTCvc / zBTCvc — institutional BTC receipt tokens backed by underlying BTC; no governance token.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": null,
+    "funding_note": "No funding round publicly reported.",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/vishwa",
+      "https://skybitcoins.com/dapp/vishwa"
+    ],
+    "checked": "2026-11-21"
+  },
+  "exponent-yield-exchange": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Solana yield exchange; XPN token rumored but unconfirmed — no contract or TGE.",
+    "points_program": "yes",
+    "points_note": "Live points program via Rewards Hub.",
+    "funding_usd": 7100000,
+    "funding_note": "$7.1M total: $2.1M seed Nov 2024 led by RockawayX; $5M seed Apr 2026 led by Multicoin Capital.",
+    "launch_signal": "XPN rumored, unconfirmed; no TGE date.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/exponent-yield-exchange",
+      "https://app.blockworks.com/projects/exponent-finance",
+      "https://airdrops.io/exponent/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "flux-finance": {
+    "token_status": "parent-has-token",
+    "token_symbol": "ONDO",
+    "token_note": "Parent Ondo Finance has ONDO; Flux is governed by the Ondo DAO. Token contract: 0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3 (Ethereum).",
+    "points_program": "no",
+    "points_note": "No points program.",
+    "funding_usd": 4000000,
+    "funding_note": "Parent Ondo Finance: $4M seed led by Pantera Capital (2021).",
+    "launch_signal": "Parent token already exists; no separate Flux token.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/flux-finance",
+      "https://www.coindesk.com/price/ondo",
+      "https://dappsatlas.com/dapp/flux-finance"
+    ],
+    "checked": "2026-11-21"
+  },
+  "3f": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "DefiLlama listing form states token address/ticker: N/A. Vault receipt tokens like 3F-steakUSDC are vault shares, not a governance token.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": 4750000,
+    "funding_note": "$4.75M total raised per DefiLlama.",
+    "launch_signal": "No public statement about a future token found.",
+    "website": "https://www.3f.xyz/",
+    "x_handle": "@3f_xyz",
+    "sources": [
+      "https://defillama.com/protocol/3f"
+    ],
+    "checked": "2026-11-21"
+  },
+  "ultrayield-curator": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Risk curator by Edge Capital; no token, points or funding found in public sources.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": null,
+    "funding_note": "No funding round publicly reported.",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/ultrayield-curator"
+    ],
+    "checked": "2026-11-21"
+  },
+  "makina": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "MAK was pre-sold Dec 2025 on Legion at $0.07 (1B supply) but TGE has NOT happened; launch slipped from Q1 2026, no new date. BingX lists price $0/not listed. Counts as no-token-found: no tradable token exists yet.",
+    "points_program": "yes",
+    "points_note": "Points live since 29 Sep 2025; convert to MAK at TGE; 2.5% of supply (25M MAK) allocated to farmers.",
+    "funding_usd": 4850000,
+    "funding_note": "~$4.85M per CryptoRank: $3M seed Jun 2025 + ~$2M token sale; backers Cyber Fund, Bodhi Ventures, Interop, Steakhouse.",
+    "launch_signal": "TGE expected, date TBA; pre-sale completed Dec 2025.",
+    "website": "https://makina.finance",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/makina",
+      "https://zeneca.farm/makina",
+      "https://cryptorank.io/price/makina"
+    ],
+    "checked": "2026-11-21"
+  },
+  "noon": {
+    "token_status": "token-exists",
+    "token_symbol": "NOON",
+    "token_note": "$NOON governance token LIVE, trading on Uniswap; TGE July 2025 per docs. Contract address NOT verified in this pass — recorded as null, do not invent.",
+    "points_program": "yes",
+    "points_note": "Noon League pre-season; points convert to NOON monthly.",
+    "funding_usd": null,
+    "funding_note": "Self-funded; no VC raise reported.",
+    "launch_signal": "Token already live.",
+    "website": "https://noon.capital",
+    "x_handle": "@noon_capital",
+    "sources": [
+      "https://defillama.com/protocol/noon",
+      "https://airdrops.io/noon/",
+      "https://swanbluechip.com/rewards/p/noon/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "aegis-yusd": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "AEG planned, not launched. YUSD/sYUSD are the protocol's stablecoins, not a governance token.",
+    "points_program": "yes",
+    "points_note": "Season 2 described as 'the final stage of the program before TGE'; Season 1 allocated ~9.5% of future AEG supply. No TGE date.",
+    "funding_usd": 2000000,
+    "funding_note": "$2M pre-seed Feb 2025 led by Dewhales.",
+    "launch_signal": "TGE expected after Season 2; no date published.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/aegis-yusd",
+      "https://zeneca.farm/aegis",
+      "https://paragraph.com/@aegis-im-2/aegis-points-program-update"
+    ],
+    "checked": "2026-11-21"
+  },
+  "project-x": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "HyperEVM DEX; PRJX planned, no confirmed TGE.",
+    "points_program": "no",
+    "points_note": "Original points program (1M pts/day) retired; now direct USDC rewards.",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "PRJX in roadmap; no TGE date.",
+    "website": "https://prjx.exchange",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/project-x"
+    ],
+    "checked": "2026-11-21"
+  },
+  "plasma-one": {
+    "token_status": "parent-has-token",
+    "token_symbol": "XPL",
+    "token_note": "Parent Plasma chain has XPL, live since 25 Sep 2025; card cashback is paid in XPL.",
+    "points_program": "no",
+    "points_note": "XPL cashback, not a points program.",
+    "funding_usd": 50000000,
+    "funding_note": "Parent Plasma: $50M public token sale Jul 2025.",
+    "launch_signal": "Parent token already live.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/plasma-one",
+      "https://spendnode.io/crypto-cards/plasma-one/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "felix-vaults": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Parent Felix Protocol issues feUSD stablecoin (Liquity v2 CDP on HyperEVM) but no governance token found.",
+    "points_program": "yes",
+    "points_note": "Felix Points launched 13 Apr 2025.",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "No public statement about a future governance token found.",
+    "website": "https://usefelix.fi",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/felix-vaults",
+      "https://hypewatch.io/compare",
+      "https://usefelix.fi"
+    ],
+    "checked": "2026-11-21"
+  },
+  "plasma-saving-vaults": {
+    "token_status": "parent-has-token",
+    "token_symbol": "XPL",
+    "token_note": "Parent Plasma has XPL (live 25 Sep 2025); vaults distribute XPL rewards, now at zero.",
+    "points_program": "no",
+    "points_note": "XPL rewards, not a points program.",
+    "funding_usd": 50000000,
+    "funding_note": "Parent Plasma: $50M public token sale Jul 2025.",
+    "launch_signal": "Parent token already live.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/plasma-saving-vaults"
+    ],
+    "checked": "2026-11-21"
+  },
+  "mystic-finance-lending": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Morpho-based lending UI on Flare; no token, points or funding found in public sources.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": null,
+    "funding_note": "No funding round publicly reported.",
+    "launch_signal": "No public statement about a future token found.",
+    "website": "https://mysticfinance.xyz",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/mystic-finance-lending"
+    ],
+    "checked": "2026-11-21"
+  },
+  "decibel": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Aptos perps DEX; DCBL planned, roadmap Q4 2026+, no contract published. Any DCBL token/claim page today is unofficial.",
+    "points_program": "yes",
+    "points_note": "Amps Season 1 (trading, streaks, referrals, DLP vault).",
+    "funding_usd": null,
+    "funding_note": "Incubated by Aptos Labs; raise amount not reported.",
+    "launch_signal": "Site FAQ confirms a token is coming; roadmap Q4 2026+.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/decibel",
+      "https://99airdrops.com/airdrops/decibel/",
+      "https://perpranking.com/perp-dex/decibel"
+    ],
+    "checked": "2026-11-21"
+  },
+  "hylo-protocol": {
+    "token_status": "wrapped-staked-product",
+    "token_symbol": "hyUSD",
+    "token_note": "Issues hyUSD stablecoin + xSOL leveraged SOL + hyloSOL LST, all backed by SOL LSTs; no governance token.",
+    "points_program": "yes",
+    "points_note": "XP program (xSOL earns 40 XP/$).",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "No public statement about a future governance token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/hylo-protocol",
+      "https://www.coingecko.com/en/coins/hylo-usd",
+      "https://dappsatlas.com/dapp/hylo-protocol"
+    ],
+    "checked": "2026-11-21"
+  },
+  "origami-finance": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "No governance token; docs state 'No governance token or NFT is required to deposit'.",
+    "points_program": "yes",
+    "points_note": "Ori points; Season 3 active (S1/S2 concluded).",
+    "funding_usd": 1500000,
+    "funding_note": "$1.5M seed Aug 2024 led by Ouroboros Capital; backers incl. Fjord Foundry, Good Partners, TempleDAO.",
+    "launch_signal": "Docs say Ori points 'may be redeemable or converted in future protocol events'; no ticker or date.",
+    "website": "https://origami.finance",
+    "x_handle": "@origami_fi",
+    "sources": [
+      "https://defillama.com/protocol/origami-finance",
+      "https://cryptorank.io/price/origami-finance/",
+      "https://origami-finance.com/faq/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "y10k-capital": {
+    "token_status": "wrapped-staked-product",
+    "token_symbol": "eY10K",
+    "token_note": "Vault share token eY10K is an ERC-4626 receipt for a KYC-gated, Panama-corp, sophisticated-investor-only vault — not a governance token.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": null,
+    "funding_note": "No funding round publicly reported.",
+    "launch_signal": "No public statement about a future token found.",
+    "website": "https://y10k.capital",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/y10k-capital",
+      "https://app.rwa-xyz.com/assets/EY10K"
+    ],
+    "checked": "2026-11-21"
+  },
+  "drakewell": {
+    "token_status": "wrapped-staked-product",
+    "token_symbol": "USDdw",
+    "token_note": "Issues USDdw yield-bearing dollar token backed by USDC (and SPYdw); no governance token. Do NOT conflate with Drakeexchange (different perp DEX).",
+    "points_program": "unknown",
+    "points_note": "No Drakewell points program found; 'Drake' points results belong to Drakeexchange.",
+    "funding_usd": null,
+    "funding_note": "No funding round publicly reported.",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": "@drakewell_fi",
+    "sources": [
+      "https://defillama.com/protocol/drakewell",
+      "https://stablewatch.io/analytics/assets/USDdw-Drakewell"
+    ],
+    "checked": "2026-11-21"
+  },
+  "vfat.io": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Yield aggregator/portfolio manager built on Sickle; DefiLlama lists token: none.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": null,
+    "funding_note": "No funding round publicly reported.",
+    "launch_signal": "No public statement about a future token found.",
+    "website": "https://vfat.io",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/vfat.io",
+      "https://dappsatlas.com/dapp/vfat-io"
+    ],
+    "checked": "2026-11-21"
+  },
+  "flowdesk": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "TradFi-style market maker; no token.",
+    "points_program": "no",
+    "points_note": "No points program; traditional market-making business.",
+    "funding_usd": 182000000,
+    "funding_note": "~$182M total: $30M Series A Jun 2022; $50M Series B Jan 2024 led by Cathay Innovation; $102M Mar 2025 led by HV Capital (~90% equity + debt from BlackRock-managed funds).",
+    "launch_signal": "No token; traditional market-making business.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/flowdesk",
+      "https://app.dealroom.co/companies/flowdesk"
+    ],
+    "checked": "2026-11-21"
+  },
+  "anemoy-capital": {
+    "token_status": "parent-has-token",
+    "token_symbol": "CFG",
+    "token_note": "Parent Centrifuge has CFG (Ethereum ERC-20 after migration from Polkadot, ~680M target supply). Anemoy is Centrifuge's asset-management arm; 'All value will accrue to CFG; Anemoy has no separate equity claims.' Fund share token JAAA (0x5a0F93D040De44e78F251b03c43be9CF317Dcf64, Ethereum) is a fund share, not Anemoy's token.",
+    "points_program": "no",
+    "points_note": "No points program.",
+    "funding_usd": 50000000,
+    "funding_note": "Parent Centrifuge: ~$50M total incl. $15M Series A 2024 led by ParaFi.",
+    "launch_signal": "Parent token already exists; Anemoy has no separate token by design.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/anemoy-capital",
+      "https://alearesearch.io/reports/theses/centrifuge",
+      "https://dappsatlas.com/dapp/centrifuge-protocol"
+    ],
+    "checked": "2026-11-21"
+  },
+  "marginfi-lending": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Same entity as Project 0 (marginfi rebranded to Project 0 in Sep 2025); no token yet.",
+    "points_program": "yes",
+    "points_note": "Project 0 points live; MRGN points carried over 1:1.",
+    "funding_usd": null,
+    "funding_note": "Backers: Pantera, Multicoin, Solana Ventures; amounts not verified.",
+    "launch_signal": "Token proposed, TGE slipped repeatedly; 20% community allocation proposed.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/marginfi-lending",
+      "https://solanaguides.com/marginfi-airdrop-guide",
+      "https://solanacompass.com/projects/marginfi"
+    ],
+    "checked": "2026-11-21"
+  },
+  "xrpl-dex": {
+    "token_status": "parent-has-token",
+    "token_symbol": "XRP",
+    "token_note": "The XRPL DEX is a native protocol feature of the XRP Ledger; native asset is XRP. NOTE: third-party site xrpl-dex.pro claims an XDX governance token with TGE Q3 2025 — treat as UNVERIFIED, not counted as a confirmed token.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "No token announcement from the XRPL DEX itself; XDX claim is third-party and unverified.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/xrpl-dex"
+    ],
+    "checked": "2026-11-21"
+  },
+  "templar-lending": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Templar Protocol; docs explicitly state 'No governance-token backstop'.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": 4000000,
+    "funding_note": "$4M total raised per DefiLlama.",
+    "launch_signal": "No token; docs rule out a governance-token backstop.",
+    "website": "https://templarfi.org",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/templar-protocol",
+      "https://docs.defindex.io/strategies/precept-supply"
+    ],
+    "checked": "2026-11-21"
+  },
+  "bitlayer-ybtc-family": {
+    "token_status": "parent-has-token",
+    "token_symbol": "BTR",
+    "token_note": "Parent Bitlayer has BTR, listed on exchanges Sep 2025 (e.g. Biconomy 4 Sep 2025); Booster campaigns distributed BTR. YBTC itself is a 1:1 BTC-backed token (YBTC.B on Bitlayer 0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335) — a product token, not a governance token.",
+    "points_program": "yes",
+    "points_note": "Booster campaigns (task-based BTR rewards; phases ended Aug 2025).",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "Parent token already live.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/bitlayer-ybtc-family"
+    ],
+    "checked": "2026-11-21"
+  },
+  "apex-omni": {
+    "token_status": "token-exists",
+    "token_symbol": "APEX",
+    "token_note": "APEX is live and trading (~$0.133, ~$21M market cap on 19 Nov 2026 per CoinGecko via perpsatlas). Contract address NOT verified in this pass — recorded as null.",
+    "points_program": "yes",
+    "points_note": "Ape Points Season 1 (69M points, 5.75M/week) ended 28 Dec 2025; Season 2 mentioned in docs, start unconfirmed. ApeX Social Points (ASP) live for mystery-box rewards.",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "Token already live.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/apex-omni",
+      "https://perpsatlas.com/perp-dex/apex/",
+      "https://airdrops.io/apex/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "manta-cedefi": {
+    "token_status": "parent-has-token",
+    "token_symbol": "MANTA",
+    "token_note": "Manta Network has MANTA (~$0.04, ~$19.3M market cap). Manta CeDeFi itself has no token; depositors receive mTokens (share receipts) and past campaigns paid MANTA rewards via a rewards portal.",
+    "points_program": "no",
+    "points_note": "MANTA reward rounds, not a points program.",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "No separate CeDeFi token announced.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/manta-cedefi",
+      "https://dappsatlas.com/dapp/manta-cedefi"
+    ],
+    "checked": "2026-11-21"
+  },
+  "liminal-basis": {
+    "token_status": "wrapped-staked-product",
+    "token_symbol": "limUSD",
+    "token_note": "Issues limUSD (yield-bearing stablecoin) plus ERC-4626 xTokens (xHYPE, xBTC, xLEND) backed by delta-neutral strategies; no governance token. WARNING: a fake '$LIM vote' circulates on X — Liminal has no token, any $LIM claim/vote page is a scam.",
+    "points_program": "no",
+    "points_note": "No points program; referral commissions paid in USDC. Partner points (e.g. Kinetiq k points) can be earned via integrations.",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "No token announced; airdrop speculation only.",
+    "website": "https://liminal.money",
+    "x_handle": "@liminalmoney",
+    "sources": [
+      "https://defillama.com/protocol/liminal-basis",
+      "https://airdrops.io/liminal/",
+      "https://www.diadata.org/map/defi-vaults-lending/protocol/liminal-basis/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "zoo-finance": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Berachain structured-asset protocol (formerly IndexZoo); no token — CertiK lists token launch date/market cap as Not Available. Do NOT conflate with zoo.ngo (an AI compute network whose ZIP-407 mentions a ZOO token) — a different project.",
+    "points_program": "unknown",
+    "points_note": "No points program found; AirdropBee lists status as 'Rumor'.",
+    "funding_usd": 10000000,
+    "funding_note": "$10M total: $2M seed Apr 2022 + $8M strategic Dec 2025 led by Bitrise Capital (Signum, CertiK Ventures, TOP, CGV, Cryptomeria). PitchBook claims $12M raised — conflicting, not used.",
+    "launch_signal": "No TGE announced; airdrop status listed as 'Rumor'.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/zoo-finance",
+      "https://skynet.certik.com/projects/zoo-finance",
+      "https://cryptorank.io/price/indexzoo",
+      "https://alphagrowth.io/zoo-finance/company"
+    ],
+    "checked": "2026-11-21"
+  },
+  "lulo": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Solana stablecoin yield aggregator; no own token per DefiLlama/dappsatlas. Users farm points in integrated protocols (Kamino, Marginfi, etc.) through Lulo, not Lulo points.",
+    "points_program": "no",
+    "points_note": "No Lulo points program; depositors earn points of underlying protocols.",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "No token announcement found.",
+    "website": "https://lulo.fi",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/lulo",
+      "https://solanacompass.com/projects/lulo",
+      "https://dappsatlas.com/dapp/lulo"
+    ],
+    "checked": "2026-11-21"
+  },
+  "avant-aveth": {
+    "token_status": "wrapped-staked-product",
+    "token_symbol": "avETH",
+    "token_note": "avETH is Avant's ETH-backed base token (ERC-20, verified on Etherscan as 'avETH', minted against WETH); savETH senior and avETHx junior tranches sit on top. Governance token AVANT is NOT yet issued (TGE 'to be announced'). Token contract: 0x9469470c9878bf3d6d0604831d9a3a366156f7ee (Ethereum).",
+    "points_program": "yes",
+    "points_note": "Season 1 points ran until 15 May 2026 and converted to AVANT (linear, 1 AVANT minimum); protocol offers a $0.025/AVANT buyback (FDV $25M). No Season 2 announced.",
+    "funding_usd": null,
+    "funding_note": "Seed round at $25M pre-money valuation (buyback price implies FDV $25M); raise amount undisclosed.",
+    "launch_signal": "AVANT expected around TGE; date TBA; Season 1 points already converted.",
+    "website": "https://app.avantprotocol.com",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/avant-aveth",
+      "https://www.capital-layer.fund/en/research/inbox-2026-10-30-1226-e5ed7c1e/",
+      "https://app.avantprotocol.com/products",
+      "https://etherscan.io/token/0x9469470c9878bf3d6d0604831d9a3a366156f7ee?a=0xdbf380ed7261a37bd219d69a3eb70b225a68f3ea"
+    ],
+    "checked": "2026-11-21"
+  },
+  "gmx-solana": {
+    "token_status": "parent-has-token",
+    "token_symbol": "GMX",
+    "token_note": "GMX token live (~$6.76, ~$72.7M market cap, max supply 13.25M). GMX Solana is GMX's Solana deployment (now branded GMTrade, formerly GMXSOL; integrated into GMX per 16 Sep 2026 governance post). GT points are GMTrade's own points, separate from the GMX token.",
+    "points_program": "yes",
+    "points_note": "GT Points for trading, liquidity provision and referrals; GT is a TGE participation credential with conditional treasury buybacks for USDC (Season 2 live).",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "GMTrade TGE planned with GT as eligibility credential; no date.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/gmx-solana",
+      "https://coinextra.net/gmtrade-drives-65-surge-in-solana-perpetuals-volume-3101/",
+      "https://defillama.com/token/GMX",
+      "https://followin.io/en/feed/23680050"
+    ],
+    "checked": "2026-11-21"
+  },
+  "waterline": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Risk curator on Morpho (5-6 vaults, ~$21.8M TVL, Ethereum); no token, points or funding found in public sources.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": null,
+    "funding_note": "No funding round publicly reported.",
+    "launch_signal": "No public statement about a future token found.",
+    "website": "https://waterline.build",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/waterline",
+      "https://app.morpho.org/curator/eco-vaults-shf"
+    ],
+    "checked": "2026-11-21"
+  },
+  "d2-finance": {
+    "token_status": "wrapped-staked-product",
+    "token_symbol": "d2HYPE",
+    "token_note": "Onchain multi-strategy fund; vaults are ERC-4626 and issue receipt tokens (e.g. d2HYPE backed by WHYPE). No governance token — DefiLlama shows no token; beware of anything claiming to be one.",
+    "points_program": "unknown",
+    "points_note": "No points program found in public sources.",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "No token announcement found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/d2-finance",
+      "https://dappsatlas.com/dapp/d2-finance"
+    ],
+    "checked": "2026-11-21"
+  },
+  "phoenix-perp": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Fully on-chain CLOB perps DEX on Solana by Ellipsis Labs (Phoenix V1 spot live since 2023). No token announced for either Phoenix V1 or Perpetuals; team has not publicly committed to issuing one. A $2.2K-mcap PHENIX pump token on Solana is unrelated.",
+    "points_program": "no",
+    "points_note": "No points program of its own; Solana Foundation's Frontier Traders Season One (21 Sep–7 Nov 2026) paid stablecoin prizes for perp volume — a competition, not an airdrop.",
+    "funding_usd": null,
+    "funding_note": "Unknown.",
+    "launch_signal": "No token commitment; airdrop speculation only.",
+    "website": "https://phoenix.trade",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/phoenix-perp",
+      "https://www.perpranking.com/perp-dex/phoenix",
+      "https://solanaguides.com/phoenix-perpetuals-guide-2026-on-chain-perps-by-ellipsis-labs-beta-airdrop-setup"
+    ],
+    "checked": "2026-11-21"
+  },
+  "august-digital": {
+    "token_status": "parent-has-token",
+    "token_symbol": "MORPHO",
+    "token_note": "Morpho vault curator on Monad; no own token. Parent Morpho has the MORPHO governance token.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/august-digital"
+    ],
+    "checked": "2026-11-21"
+  },
+  "adrastea-validator": {
+    "token_status": "wrapped-staked-product",
+    "token_symbol": "adraSOL / lrtsSOL",
+    "token_note": "Offers liquid (re)staking tokens adraSOL and lrtsSOL (via Solayer/Sonic AVS); underlying asset is SOL. No governance token found.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": "https://adrastea.fi",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/adrastea-validator"
+    ],
+    "checked": "2026-11-21"
+  },
+  "xion-finance": {
+    "token_status": "token-exists",
+    "token_symbol": "XION",
+    "token_note": "XION is the native token of the XION L1, trading ~$0.0886, mcap ~$8.2M, 92.68M circulating / 200M max (Nov 2026). No contract address: native L1 coin. Do NOT conflate with Bitget's separate 'Xion Finance (XGT)' token on BNB Chain.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": 25000000,
+    "funding_note": "$25M Series A per DefiLlama; $36M+ total per Coinranking (Multicoin, Animoca, Circle, HashKey, Spartan, Arrington).",
+    "launch_signal": "Token already live and trading.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://www.bybit.com/en/price/xion-2/",
+      "https://defillama.com/chain/xion"
+    ],
+    "checked": "2026-11-21"
+  },
+  "gamma-research": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Risk curator; vaults hosted on Upshift (flagship earnAUSD on Monad). No token found.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": "https://gammaresearch.xyz",
+    "x_handle": "@Gamma_Research_",
+    "sources": [
+      "https://defillama.com/protocol/gamma-research"
+    ],
+    "checked": "2026-11-21"
+  },
+  "risex": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Perp DEX on RISE L2. No token found.",
+    "points_program": "yes",
+    "points_note": "Ignite points program, Season 1 launched Jul 2026.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "Points program running; no token launched yet.",
+    "website": "https://rise.trade",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/risex"
+    ],
+    "checked": "2026-11-21"
+  },
+  "neutral-trade": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Official FAQ states: 'No. Neutral Trade has no token.'",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": 2000000,
+    "funding_note": "$2M seed May 2025 (BlackPine, Ergonia, Skyland Ventures); plus a YZi Labs round 2026-08-27, amount undisclosed.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": "https://neutral.trade",
+    "x_handle": null,
+    "sources": [
+      "https://neutral.trade/faq",
+      "https://defillama.com/protocol/neutral-trade"
+    ],
+    "checked": "2026-11-21"
+  },
+  "agua": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Obscure onchain capital allocator (Monad/Ethereum). No token found. Unrelated 2022 'AGUA' water-rights coin (Santo Mining) is a different project.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/agua"
+    ],
+    "checked": "2026-11-21"
+  },
+  "chain-fusion": {
+    "token_status": "parent-has-token",
+    "token_symbol": "ICP",
+    "token_note": "ICP's cross-chain feature (ckBTC/ckETH), not a standalone protocol. Parent chain Internet Computer has the ICP token.",
+    "points_program": "no",
+    "points_note": "No points program; it is a chain feature, not a protocol with incentives.",
+    "funding_usd": null,
+    "funding_note": "Unknown / n/a for a chain feature.",
+    "launch_signal": "Parent token already live.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/chain-fusion"
+    ],
+    "checked": "2026-11-21"
+  },
+  "nemo-trading": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Strategy curator on Upshift (Ethereum). No governance token (DefiLlama PR: 'none proposed'). The nUSDC vault receipt is an ERC-4626 share, not a protocol token. Unrelated unverified Solana memecoin 'Nemo Chess Queen (NEMO)' is not affiliated.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": "https://nemo.trading",
+    "x_handle": "@NEMOtradingHQ",
+    "sources": [
+      "https://defillama.com/protocol/nemo-trading"
+    ],
+    "checked": "2026-11-21"
+  },
+  "bisonfi": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Prop AMM DEX on Solana, top DEX by volume Oct 2026. No official token; team unclear; Forward Industries denied affiliation. Unverified pump.fun memecoins named Bison/BISON exist and are not affiliated.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/bisonfi"
+    ],
+    "checked": "2026-11-21"
+  },
+  "fira": {
+    "token_status": "parent-has-token",
+    "token_symbol": "USUAL",
+    "token_note": "Fixed-rate lending on Ethereum, owned by Usual DAO. Official FAQ: 'No [FIRA token]. Governed by Usual DAO via the USUAL token.'",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "Parent token USUAL already live.",
+    "website": "https://fira.money",
+    "x_handle": "@Fira_Lend",
+    "sources": [
+      "https://help.fira.money",
+      "https://defillama.com/protocol/fira"
+    ],
+    "checked": "2026-11-21"
+  },
+  "native-credit-pool": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Native (native.org), credit pool for market makers. No token found (memeindexer: 'no token').",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": "https://native.org",
+    "x_handle": "@native_fi",
+    "sources": [
+      "https://defillama.com/protocol/native-credit-pool"
+    ],
+    "checked": "2026-11-21"
+  },
+  "felix-cdp": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "CDP on Hyperliquid L1 minting the feUSD stablecoin. No governance token; feUSD is a stablecoin, not a gov token.",
+    "points_program": "yes",
+    "points_note": "Points program since Apr 2025 'for future airdrops'.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "Points program implies a potential future token, not confirmed.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://coinlaunch.space/projects/felix-protocol/",
+      "https://defillama.com/protocol/felix-cdp"
+    ],
+    "checked": "2026-11-21"
+  },
+  "defindex": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Yield aggregator on Stellar/Soroban, built by PaltaLabs. No token found.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://dappsatlas.com/dapp/defindex",
+      "https://defillama.com/protocol/defindex"
+    ],
+    "checked": "2026-11-21"
+  },
+  "ultrayield-vaults": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Morpho vault curator on Ethereum. No token found. Note: an Ultra_BTC collateral token exists on Morpho but is not UltraYield's token.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://skybitcoins.com/dapp/ultrayield-vaults",
+      "https://defillama.com/protocol/ultrayield-vaults"
+    ],
+    "checked": "2026-11-21"
+  },
+  "rocksolid-network": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Yield vaults on Ethereum. No token found.",
+    "points_program": "no",
+    "points_note": "No confirmed points program (airdrops.io).",
+    "funding_usd": 2800000,
+    "funding_note": "$2.8M pre-seed Sep 2025, led by Castle Island Ventures; total raised >$3M.",
+    "launch_signal": "Airdrop speculation only; no confirmed token plan.",
+    "website": "https://rocksolid.network",
+    "x_handle": null,
+    "sources": [
+      "https://airdrops.io/rocksolid/",
+      "https://skybitcoins.com/dapp/rocksolid-network"
+    ],
+    "checked": "2026-11-21"
+  },
+  "katana-pre-launch": {
+    "token_status": "parent-has-token",
+    "token_symbol": "KAT",
+    "token_note": "Pre-launch deposit farm (Yearn vaults on Ethereum) for the Katana chain. Parent token KAT launched Mar 2026: Binance Pre-TGE sale Mar 16, 2026 ($0.009, 100M KAT = 1% supply), spot listing Mar 18, 2026; 10B total supply.",
+    "points_program": "yes",
+    "points_note": "Pre-launch farm distributes 70M KAT pro-rata plus Krates NFTs.",
+    "funding_usd": 0,
+    "funding_note": "None: 'no venture capital investors, no presale' per BTCC.",
+    "launch_signal": "Token already launched (Mar 2026).",
+    "website": "https://katana.network",
+    "x_handle": "@katana",
+    "sources": [
+      "https://www.binance.com/en/price/katana",
+      "https://dappsatlas.com/dapp/katana-pre-launch"
+    ],
+    "checked": "2026-11-21"
+  },
+  "hyperbeat-earn": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Hyperliquid yield vaults. No token found (hbUSDC/hbHYPE/beHYPE are vault receipt tokens). Note: catcha.ai mentions a '$HYBEAT' ticker — unverified, do NOT treat as a launched token.",
+    "points_program": "yes",
+    "points_note": "Hearts points program active.",
+    "funding_usd": 5200000,
+    "funding_note": "$5.2M seed Aug 2025, led by ether.fi Ventures + Electric Capital; Coinbase Ventures et al. participating.",
+    "launch_signal": "TGE pending per trackers; points program active.",
+    "website": "https://hyperbeat.org",
+    "x_handle": "@Hyperbeat",
+    "sources": [
+      "https://coinpulsepoint.com/companies/hyperbeat/",
+      "https://defillama.com/protocol/hyperbeat-earn"
+    ],
+    "checked": "2026-11-21"
+  },
+  "communityv3": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Unmodified Uniswap V3 deployment on Ethereum; factory owner burned, protocol fee can never turn on. No token found.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/communityv3"
+    ],
+    "checked": "2026-11-21"
+  },
+  "perena-vaults": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Solana 'stablebank'; USD* is a yield-bearing stablecoin, not a governance token. No native token found.",
+    "points_program": "yes",
+    "points_note": "Petals program, Season 1 active (Season 0 snapshot done).",
+    "funding_usd": 3000000,
+    "funding_note": "$3M, Borderless Capital lead, YZi Labs participating.",
+    "launch_signal": "TGE not announced; points program running.",
+    "website": "https://perena.org",
+    "x_handle": null,
+    "sources": [
+      "https://coinlaunch.space/projects/perena/",
+      "https://dappsatlas.com/dapp/perena-vaults"
+    ],
+    "checked": "2026-11-21"
+  },
+  "tempo-stablecoin-dex": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Tempo chain's enshrined Stablecoin DEX. Chain has no native token by design. Mainnet live Mar 18, 2026. Third-party TEMPO tickers on Base/Coinbase are unrelated.",
+    "points_program": "no",
+    "points_note": "No points program; no airdrop announced.",
+    "funding_usd": null,
+    "funding_note": "Unknown; incubated by Stripe + Paradigm (no funding figure published).",
+    "launch_signal": "Official docs: Tempo has no native token by design; fees are paid in USD stablecoins.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://coinmarketcap.com/exchanges/tempo-stablecoin-dex/",
+      "https://defillama.com/protocol/tempo-stablecoin-dex"
+    ],
+    "checked": "2026-11-21"
+  },
+  "exponent-strategy-vaults": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Exponent Finance (Solana). No token launched (Blockworks: 'has not launched a token').",
+    "points_program": "yes",
+    "points_note": "Rewards Hub campaigns + OnRe Points.",
+    "funding_usd": 7100000,
+    "funding_note": "$7.1M total: $5M seed Apr 2026 led by Multicoin Capital; Solana Ventures, RockawayX, L1D, Prelude, Theia.",
+    "launch_signal": "XPN token rumoured/unconfirmed only.",
+    "website": "https://exponent.finance",
+    "x_handle": "@ExponentFinance",
+    "sources": [
+      "https://app.blockworks.com/projects/exponent-finance/about",
+      "https://docs.exponent.finance"
+    ],
+    "checked": "2026-11-21"
+  },
+  "rif-on-chain": {
+    "token_status": "parent-has-token",
+    "token_symbol": "RIF",
+    "token_note": "Dual-token stablecoin on Rootstock (USDRIF stablecoin + RIFPRO leveraged token), collateralised by RIF. Parent token RIF (Rootstock Infrastructure Framework) trades ~$0.048-0.092 in 2026. Contract per ainvest citing CoinGecko — medium confidence. Token contract: 0x2acc95758f8b5f583470ba265eb685a8f45fc9d5 (RSK).",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "Parent token RIF already live and trading.",
+    "website": "https://rifonchain.com",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/rif-on-chain"
+    ],
+    "checked": "2026-11-21"
+  },
+  "hakutora": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Risk curator on Ethereum (Morpho vaults). No audits, no fees published. No token found.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/hakutora"
+    ],
+    "checked": "2026-11-21"
+  },
+  "9summits": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Vault curator (Morpho/Euler/Lagoon). No token found.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": "https://vaults.9summits.io",
+    "x_handle": "@nine_summits",
+    "sources": [
+      "https://defillama.com/protocol/9summits"
+    ],
+    "checked": "2026-11-21"
+  },
+  "nuva": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "RWA vault marketplace (Provenance + Ethereum), co-developed by Animoca Brands + ProvLabs. No token launched yet; vault share tokens nvYLDS / nvPRIME exist (nvPRIME 0xC360e625F19A7ea47e47810B13E386221d5187D1 on Ethereum) but are not governance tokens.",
+    "points_program": "yes",
+    "points_note": "CryptoRank lists 'Airdrop Confirmed' (form/hold/social tasks).",
+    "funding_usd": 5200000,
+    "funding_note": "$5.2M seed Apr 28, 2026 (Morgan Creek Digital, Ulu Ventures).",
+    "launch_signal": "Native governance token planned per partnership announcement (governance/staking) but not launched.",
+    "website": "https://nuva.finance",
+    "x_handle": null,
+    "sources": [
+      "https://cryptorank.io/price/nuva-finance",
+      "https://www.mondovisione.com/media-and-resources/news/animoca-brands-and-provlabs-launch-nuva-to-bring-regulated-funds-onchain/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "agni-finance": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "AMM DEX + launchpad on Mantle (Uniswap V3 fork). No token found.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": "https://agni.finance",
+    "x_handle": "@Agnidex",
+    "sources": [
+      "https://skybitcoins.com/dapp/agni-finance",
+      "https://defillama.com/protocol/agni-finance"
+    ],
+    "checked": "2026-11-21"
+  },
+  "strata-markets": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Risk-tranching protocol on Ethereum (sr/jr tranches; first market Ethena USDe). No token launched yet.",
+    "points_program": "yes",
+    "points_note": "Season 1 points program (Epoch 1/2).",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "Official blog announces $STRATA token launch at end of Season 1.",
+    "website": "https://strata.markets",
+    "x_handle": null,
+    "sources": [
+      "https://blog.strata.markets",
+      "https://defillama.com/protocol/strata-markets"
+    ],
+    "checked": "2026-11-21"
+  },
+  "syntetika": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Tokenisation hub for regulated strategies on Base (first vault: Hilbert BTC Basis+, hBTC ERC-4626 share). No governance token; hBTC is a vault receipt. Unrelated unverified Solana memecoin #SYNTETIKA is not affiliated.",
+    "points_program": "unknown",
+    "points_note": "Merkl campaign pays hBTC incentives; not a points program.",
+    "funding_usd": null,
+    "funding_note": "Unknown; backed by Hilbert Group (no figure published).",
+    "launch_signal": "No public token-launch statement found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/syntetika"
+    ],
+    "checked": "2026-11-21"
+  },
+  "sygnum-fiusd-liquidity-fund": {
+    "token_status": "token-exists",
+    "token_symbol": "FIUSD",
+    "token_note": "FIUSD is itself a tokenized money-market-fund token on zkSync Era, listed on CoinGecko, ~$12,108/unit — a permissioned Swiss ledger-based security issued by Sygnum Bank, representing Fidelity ILF USD Fund Class G Acc units. Contract address NOT verified — do not invent.",
+    "points_program": "no",
+    "points_note": "No points program (permissioned bank product).",
+    "funding_usd": null,
+    "funding_note": "n/a — bank product (Sygnum Bank).",
+    "launch_signal": "Token already live.",
+    "website": "https://www.sygnum.com/tokenization",
+    "x_handle": null,
+    "sources": [
+      "https://www.coingecko.com/en/coins/sygnum-fiusd-liquidity-fund",
+      "https://yellow.com/asset/fiusd"
+    ],
+    "checked": "2026-11-21"
+  },
+  "paimon": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "BSC RWA protocol (tokenized private equity / pre-IPO). No governance token found. Note: the $SPCX token was 'powered by Paimon Finance' (CoinMarketCap post, Jul 2025) — a separate RWA token, not Paimon's own.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": null,
+    "x_handle": "@Paimon_Finance",
+    "sources": [
+      "https://radar.cryptosigy.com/protocol/paimon",
+      "https://defillama.com/protocol/paimon"
+    ],
+    "checked": "2026-11-21"
+  },
+  "3jane-lending": {
+    "token_status": "token-exists",
+    "token_symbol": "JANE",
+    "token_note": "Uncollateralized credit lending on Ethereum (USD3/sUSD3 yield-bearing deposit tokens). $JANE token exists — liquidity-mining program distributes $JANE emissions to suppliers (ainvest; SkyBitcoins lists 'Token: JANE'). Contract address NOT verified — do not invent.",
+    "points_program": "unknown",
+    "points_note": "Liquidity mining distributes $JANE; not a points program.",
+    "funding_usd": 5200000,
+    "funding_note": "$5.2M seed from Paradigm.",
+    "launch_signal": "Token already live (liquidity-mining emissions).",
+    "website": null,
+    "x_handle": "@3janexyz",
+    "sources": [
+      "https://docs.3jane.xyz",
+      "https://skybitcoins.com/dapp/3jane-options"
+    ],
+    "checked": "2026-11-21"
+  },
+  "estate-protocol": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Tokenized real estate on Arbitrum (fractional ownership, from $50). DefiLlama listing PR records no token address/ticker. AlphaGrowth's auto-generated 'native token is Estate Protocol' is unreliable and disregarded. Property tokens exist per property, but no protocol token verified.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": "https://estateprotocol.com",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/estate-protocol"
+    ],
+    "checked": "2026-11-21"
+  },
+  "t3tris-finance": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Zero-fee permissionless async ERC-4626 vault infrastructure (Arbitrum + Robinhood Chain). No token found.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": "https://t3tris.finance",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/t3tris-finance"
+    ],
+    "checked": "2026-11-21"
+  },
+  "steer-protocol": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "CONFLICTING EVIDENCE — UNVERIFIED: DefiLlama and dappsatlas list NO token, but low-quality/SEO-spam-style sites (app.5teer.org, v2-steer-finance.com) describe a STEER governance token + staking. Do NOT treat STEER as verified; no contract address verified. Verdict recorded as no-token-found with this conflict flagged.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": 1500000,
+    "funding_note": "$1.5M seed Apr 2023 (Druid Ventures, Big Brain Holdings, Republic).",
+    "launch_signal": "No verified token-launch statement found.",
+    "website": "https://steer.finance",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/steer-protocol",
+      "https://dappsatlas.com/dapp/steer-protocol"
+    ],
+    "checked": "2026-11-21"
+  },
+  "syntropia": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Yield aggregator on Ethereum (Lagoon vaults). No token found.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://dappsatlas.com/dapp/syntropia",
+      "https://defillama.com/protocol/syntropia"
+    ],
+    "checked": "2026-11-21"
+  },
+  "exponent-risk-tranching": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Exponent Finance product line (Solana; first market OnRe ONyc, srONyc/jrONyc). Same parent as #122: no token launched.",
+    "points_program": "yes",
+    "points_note": "Rewards Hub; $200K+ launch rewards Jun 2026.",
+    "funding_usd": 7100000,
+    "funding_note": "$7.1M total — same raise as Exponent Strategy Vaults (#122); do NOT double-count as a separate raise.",
+    "launch_signal": "XPN token rumoured/unconfirmed only.",
+    "website": "https://exponent.finance",
+    "x_handle": "@ExponentFinance",
+    "sources": [
+      "https://www.exponent.finance/blog/risk-tranching-for-solana",
+      "https://solanacompass.com"
+    ],
+    "checked": "2026-11-21"
+  },
+  "stellar-dex": {
+    "token_status": "parent-has-token",
+    "token_symbol": "XLM",
+    "token_note": "Stellar's native built-in DEX (protocol-level order book). Parent chain Stellar has the XLM (Lumens) native token.",
+    "points_program": "no",
+    "points_note": "No points program (chain-native DEX).",
+    "funding_usd": null,
+    "funding_note": "n/a — chain-native DEX.",
+    "launch_signal": "Parent token XLM already live.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/stellar-dex"
+    ],
+    "checked": "2026-11-21"
+  },
+  "growihf": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Growi Finance quant vault (Hyperliquid/Hibachi; mean-reversion futures strategy, live since Jul 2024). No token found.",
+    "points_program": "unknown",
+    "points_note": "dappsatlas mentions 'a points and membership programme' but rules not detailed — unverified.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://dappsatlas.com/dapp/growihf",
+      "https://defillama.com/protocol/growihf"
+    ],
+    "checked": "2026-11-21"
+  },
+  "goose": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "CeDeFi hybrid yield (BNB/opBNB/Arbitrum/Ethereum). No native token identified (dappsatlas: homepage unverified). Note: aggregators list a 'Goose Token (GOOSE)' but no verified link to this protocol; do NOT conflate with old 'Goose Finance' (2021 BSC farm) which has the EGG token 0xf952fc3ca7325cc27d15885d37117676d25bfda6.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://dappsatlas.com/dapp/goose",
+      "https://defillama.com/protocol/goose"
+    ],
+    "checked": "2026-11-21"
+  },
+  "bucket-cdp": {
+    "token_status": "token-exists",
+    "token_symbol": "BKT",
+    "token_note": "Bucket Protocol (Sui CDP). BKT is the governance token (per Cryptohopper); BUCK is the over-collateralized USD stablecoin minted against collateral (~$0.999, ~$25.9M mcap, 26M circulating). BUCK contract (Sui, via Coinbase): 0xce7ff77a83ea0cb6fd39bd8748e2ec89a3f41e8efdc3f4eb123e0ca37b184db2::buck::BUCK. BKT contract address NOT verified.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "Governance token BKT already exists; no further launch signal found.",
+    "website": "https://bucketprotocol.io",
+    "x_handle": "@bucket_protocol",
+    "sources": [
+      "https://www.coingecko.com/en/coins/bucket-protocol-buck-stablecoin",
+      "https://www.coinbase.com/price/bucket-protocol-buck-stablecoin",
+      "https://www.cryptohopper.com/currencies/detail?currency=BUCK"
+    ],
+    "checked": "2026-11-21"
+  },
+  "strato-cdp": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "STRATO is an L1 app-chain for RWA-backed credit (BlockApps). $STRATO token (fixed 100M supply, 21.7% circulating at TGE) NOT yet launched as of this check — TGE expected Q4 2026. USDST stablecoin is live (CoinGecko; contract 0xaebcdbd9f8b1422ab31073d7408c8cad83ca6a8b on Ethereum per CoinGecko). GOLDST/SILVST are 1:1 physical gold/silver tokens.",
+    "points_program": "yes",
+    "points_note": "Reward Points since Dec 8, 2025 (Season 2); points map to $STRATO at TGE; points claimed as CATA, a points token on STRATO.",
+    "funding_usd": 41000000,
+    "funding_note": "$41M+ raised by builder BlockApps (Fenbushi Capital, ConsenSys Mesh, Galaxy Ventures, Morgan Creek, Liberty City Ventures), per the STRATO litepaper; plus a Jun 2026 token auction (~$0.95/token).",
+    "launch_signal": "$STRATO TGE expected Q4 2026; Reward Points map to the token; 5% of supply allocated to airdrop.",
+    "website": null,
+    "x_handle": "@strato_net",
+    "sources": [
+      "https://github.com/sethoshi18/strato-platform/blob/HEAD/techdocs/litepaper.md",
+      "https://zeneca.farm/strato",
+      "https://coingecko.com/en/coins/strato-usdst"
+    ],
+    "checked": "2026-11-21"
+  },
+  "theo-network-thbill": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Theo Network RWA platform; thBILL is a yield-bearing basket of institutional-grade tokenized U.S. Treasury bills (tULTRA), not a governance token. No native THEO token announced as of Sep-Oct 2025 checks; airdrop not officially confirmed.",
+    "points_program": "yes",
+    "points_note": "Points program Season 2 from Aug 17, 2025: earn points by holding thBILL and providing liquidity; weekly distribution on Fridays.",
+    "funding_usd": 20000000,
+    "funding_note": "$20M (Mirana Ventures, Amber Group).",
+    "launch_signal": "TGE listed as 'upcoming' on Theo's Galxe community page; no token, allocation, or claim date announced.",
+    "website": "https://theo.xyz",
+    "x_handle": "@Theo_Network",
+    "sources": [
+      "https://coinlaunch.space/projects/theo-network/",
+      "https://www.drops.bot/airdrops/upcoming/theo",
+      "https://tokenradar.ai/tokens/theo"
+    ],
+    "checked": "2026-11-21"
+  },
+  "fstswap": {
+    "token_status": "token-exists",
+    "token_symbol": "FIST",
+    "token_note": "DEX/AMM on BSC (CertiK-audited, ~$11.5M TVL). FIST is the governance token: ~$0.25, ~$47M mcap, 200M total supply, ~291K holders. Contract verified by multiple trackers (DEX Screener, RobinSwap, unhosted.ai). Token contract: 0xc9882def23bc42d53895b8361d0b1edc7570bc6a (Binance).",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "Token already live and trading.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/fstswap?denomination=USD",
+      "https://dexscreener.com/bsc/0xb4ec801aed8c92f2e69589518aaa127afb37d8c9",
+      "https://www.robinswap.trade/bnb/tokens/fist/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "bouncebit-prime": {
+    "token_status": "parent-has-token",
+    "token_symbol": "BB",
+    "token_note": "BounceBit Prime is the institutional CeDeFi product of BounceBit (Franklin Templeton Benji + BlackRock BUIDL via Securitize). Parent token BB (native gas/staking/governance of BounceBit). NOTE: Aug 2026 exploit ($3M, 286.5M BB moved) forced permanent chain shutdown; BB migrated to BNB Chain BEP-20 Sep 3, 2026 (contract per ainvest citing Bybit migration notice). Post-migration BB utility is undefined. Token contract: 0xe0620aBeA429A66Ba69d9a0cdE9aB93dc15bB9c4 (Binance).",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": 6000000,
+    "funding_note": "$6M seed round Feb 2024.",
+    "launch_signal": "Parent token BB already live.",
+    "website": null,
+    "x_handle": "@bounce_bit",
+    "sources": [
+      "https://WWW.Coingecko.com/en/coins/bouncebit/usd",
+      "https://www.ainvest.com/news/bouncebit-bb-16-weekly-exploit-scars-weigh-chain-migration-2609/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "tessera-v": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Prop AMM on Solana (live since Jun 2025; ~$3.9B 30d volume). No official token found. An unverified Solana token 'Tessera (SERA)' 7H7wyaDQbHaHxsP61g9FnG97vFRycnMk4d3UY7QmPUip exists on Solflare — flagged 'Danger', 8 holders, not verified on Solana's token registry — almost certainly a copycat/scam, NOT affiliated.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/tessera-v",
+      "https://www.solflare.com/prices/tessera/7H7wyaDQbHaHxsP61g9FnG97vFRycnMk4d3UY7QmPUip/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "qearn": {
+    "token_status": "parent-has-token",
+    "token_symbol": "QUBIC",
+    "token_note": "QEarn is Qubic's community-led staking/locking program: lock QUBIC for up to 52 weeks for yield (early withdrawal burns part of unearned rewards). Parent token QUBIC is the native token of the Qubic network (max supply cut to 200T QUBIC). QBond (Sep 2025 proposal) tokenizes Qearn locks into tradable MBND tokens — proposal stage, not a QEarn token.",
+    "points_program": "no",
+    "points_note": "Staking rewards (lock QUBIC up to 52 weeks), not a points program.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "Parent token QUBIC already live.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://www.mexc.com/pt-PT/price/QUBIC/tokenomics",
+      "https://github.com/qubic/proposal/blob/HEAD/SmartContracts/2025-09-26-QBond.md"
+    ],
+    "checked": "2026-11-21"
+  },
+  "yieldfi": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Yield aggregator / decentralized asset-management platform. yUSD is a yield-bearing stablecoin (minted 1:1 against staked USDT/stablecoins), not a governance token. No governance token launched yet.",
+    "points_program": "yes",
+    "points_note": "YieldCrumbs — official protocol points; earn by staking, holding yUSD, referrals; convert to governance tokens at TGE. Airdrop confirmed per airdrops.io. Now live on Katana with up to 5x points on vyUSD.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "TGE planned: YieldCrumbs convert into governance tokens at TGE (per official YieldFi post).",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "http://coinmarketcap.com/community/articles/677d28e5cd08403f27185ffe/",
+      "https://airdrops.io/yieldfi/",
+      "https://coinmarketcap.com/currencies/yieldfi/"
+    ],
+    "checked": "2026-11-21"
+  },
+  "snuggle": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Automated concentrated-liquidity manager for Uniswap V3 on Base (also Robinhood Chain, Arbitrum); ~$10M TVL, charges 15% of earnings. No token found.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "No public token-launch statement found.",
+    "website": null,
+    "x_handle": "@SnuggleFi",
+    "sources": [
+      "https://defillama.com/protocol/snuggle",
+      "https://radar.cryptosigy.com/protocol/snuggle"
+    ],
+    "checked": "2026-11-21"
+  },
+  "predict-fun": {
+    "token_status": "token-exists",
+    "token_symbol": "PREDICT",
+    "token_note": "Prediction market on BNB Chain (founded by dingaling). PREDICT token: fixed 1B supply, 16% unlock at TGE, ~$1.15, mcap ~$183.4M, 160M circulating (Binance price page). CONFLICTING REPORTS: tml.news says claims opened Nov 18, 2026, while predictionhunt (Nov 20) says the TGE was delayed again on Nov 17 to 'within 2-4 weeks' — treat launch status as live-but-messy. Contract address NOT published in the project's own dev docs — do not invent or trust an address from replies/DMs.",
+    "points_program": "yes",
+    "points_note": "Season 1 points program; points convert to PREDICT airdrop (70M PREDICT, 7% of supply; 0.14968468 PREDICT per point). Claims opened Nov 18, 2026.",
+    "funding_usd": null,
+    "funding_note": "Unknown; no public funding figure found.",
+    "launch_signal": "Token already live: TGE Nov 18, 2026; Season 1 airdrop claims opened the same day.",
+    "website": "https://predict.fun",
+    "x_handle": "@predictdotfun",
+    "sources": [
+      "https://www.binance.com/en/price/predict-fun",
+      "https://tml.news/stories/predict-fun-predict-token-launches-no-contract-address/",
+      "https://beta.predictionhunt.com/news/will-predict-fun-launch-a-token-by-nov-30-nov-17-2026"
+    ],
+    "checked": "2026-11-21"
+  },
+  "sharpbyte-capital": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Yield fund curating Morpho vaults (incl. SharpByte USDT Prime vault); no governance token found. Vault share tokens are not a protocol token.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/sharpbyte-capital"
+    ],
+    "checked": "2026-11-21"
+  },
+  "tau-labs": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Risk curator (IPOR Fusion vaults); only vault share tokens (e.g. TAUSIUSD); no governance token found.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/tau-labs"
+    ],
+    "checked": "2026-11-21"
+  },
+  "kava-mint": {
+    "token_status": "parent-has-token",
+    "token_symbol": "KAVA",
+    "token_note": "Parent chain token KAVA (Binance Launchpad 2019, ~$0.027, mcap ~$576M per Finnhub). Kava Mint mints the USDX stablecoin; new issuance ended (governance zeroed CDP debt limits). An EVM KAVA contract was only partially reported (0x0C35...C9AB76) - not verified, do not use.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "New USDX issuance ended by governance; no future token signal.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/kava-mint"
+    ],
+    "checked": "2026-11-21"
+  },
+  "set-protocol": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "No governance token; products are index Sets (ERC-20 portfolios).",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": 16000000,
+    "funding_note": "$16M total raised (per DefiLlama).",
+    "launch_signal": "No future token signal found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/set-protocol"
+    ],
+    "checked": "2026-11-21"
+  },
+  "reya-perps": {
+    "token_status": "token-exists",
+    "token_symbol": "REYA",
+    "token_note": "REYA token confirmed but TGE pending, not yet trading. Tokenomics published Nov 2025: 8B supply, 45% community; CoinList sale late 2025: 2% of supply at $0.01875, $150M FDV (~$3M sale). No contract address published yet.",
+    "points_program": "yes",
+    "points_note": "RCP (Reya Chain Points), Season 2 from Sep 28, 2026 (Reya v2), 3% of supply; weekly distribution across trading / srUSD staking / Signal.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "Token exists (sold) but TGE pending; no new TGE date.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://www.datawallet.com/crypto/top-crypto-airdrops",
+      "https://airdrops.io/reya-network/",
+      "https://defillama.com/protocol/reya-perps"
+    ],
+    "checked": "2026-11-21"
+  },
+  "superearn": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Klaytn yield protocol; no own token found. An unrelated Four.meme memecoin named SuperEarn exists on BSC (0x14d76bfbd367a03f94ef16e7473c27a567f24444) - not the protocol's token.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": "@SuperEarnX",
+    "sources": [
+      "https://defillama.com/protocol/superearn"
+    ],
+    "checked": "2026-11-21"
+  },
+  "bima-cdp": {
+    "token_status": "token-exists",
+    "token_symbol": "USBD",
+    "token_note": "USBD is the protocol's live stablecoin (same contract address on every chain, per Pharos citing official mainnet.md). No separate governance token found. Token contract: 0x6bedE1c6009a78c222D9BDb7974bb67847fdB68c (Multi-chain).",
+    "points_program": "unknown",
+    "points_note": "No points program evidence found.",
+    "funding_usd": 2250000,
+    "funding_note": "$2.25M seed, July 2024, led by Portal Ventures.",
+    "launch_signal": "Stablecoin live; no governance-token signal found.",
+    "website": "https://bima.money",
+    "x_handle": null,
+    "sources": [
+      "https://pharos.watch/stablecoin/usbd-bima/",
+      "https://dappsatlas.com/dapp/bima-cdp",
+      "https://defillama.com/protocol/bima-cdp"
+    ],
+    "checked": "2026-11-21"
+  },
+  "abstract": {
+    "token_status": "parent-has-token",
+    "token_symbol": "PENGU",
+    "token_note": "PENGU is the governance/utility token of Abstract (Pudgy Penguins / Igloo Inc.), 88.8B supply. Chain of PENGU not verified in this research. Note (Nov 2026 news): Igloo Inc. ending support for the Abstract chain; 'no plans to introduce a fundraising token'.",
+    "points_program": "yes",
+    "points_note": "XP program (on-chain activity, badges, weekly PENGU rewards to top XP earners).",
+    "funding_usd": 11000000,
+    "funding_note": "$11M from Founders Fund (per MEXC blog).",
+    "launch_signal": "No plans to introduce a fundraising token (Nov 2026).",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://blog.mexc.com/token-reviews/abstract-chain-airdrop-2026-how-to-farm-xp-badges-and-pudgy-penguin-boosts/",
+      "https://interchaininfo.zone/indexes/abstract",
+      "https://defillama.com/protocol/abstract"
+    ],
+    "checked": "2026-11-21"
+  },
+  "vena-finance": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Fluent native money market (reputation-weighted rates); listed on a 'no token yet' list. Parent chain Fluent has the BLEND token - that is the chain's token, not Vena's.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/vena-finance"
+    ],
+    "checked": "2026-11-21"
+  },
+  "manifest-trade": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Solana zero-fee spot order book; whitepaper says the protocol 'will not have a token'; not funded by outside investors. Unrelated MANIFEST memecoins exist (pump.fun) - not the protocol's token.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": 0,
+    "funding_note": "$0 - explicitly unfunded (no outside investors).",
+    "launch_signal": "Whitepaper states the protocol will not have a token.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://solanacompass.com/projects/manifest",
+      "https://defillama.com/protocol/manifest-trade"
+    ],
+    "checked": "2026-11-21"
+  },
+  "bend": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Berachain native lending protocol (Morpho fork); no BEND token. Users earn BGT (Berachain governance, non-transferable) via PoL reward vaults.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": "https://bend.berachain.com",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/bend"
+    ],
+    "checked": "2026-11-21"
+  },
+  "binaryx-platform": {
+    "token_status": "token-exists",
+    "token_symbol": "BNX",
+    "token_note": "CAVEAT: BNX is the token of BinaryX GameFi (BNB chain, Binance Labs backed). Whether the Polygon RWA listing 'Binaryx Platform' is the same entity as BinaryX GameFi is UNVERIFIED - record this caveat; do not treat as confirmed. Token contract: 0x5b1f874d0b0c5ee17a495cbb70ab8bf64107a3bd (BNB Chain).",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/binaryx-platform"
+    ],
+    "checked": "2026-11-21"
+  },
+  "vesu": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Starknet permissionless lending; no token listed. Note: STRK rewards for BTC-backed borrowers (Starknet BTCFi, 100M STRK program) - STRK is the chain token, not Vesu's.",
+    "points_program": "unknown",
+    "points_note": "Third-party review (dappsatlas) mentions a points program + staking guide, not confirmed on official channels.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": "https://vesu.xyz",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/vesu"
+    ],
+    "checked": "2026-11-21"
+  },
+  "byreal": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Bybit-incubated hybrid DEX on Solana (RFQ + CLMM), mainnet Q3 2025; 'absence of a native Byreal token in the early phase'. Parent Bybit has no token either.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown (Bybit-incubated).",
+    "launch_signal": "No native token in the early phase; no future-token statement found.",
+    "website": "https://byreal.io",
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/byreal"
+    ],
+    "checked": "2026-11-21"
+  },
+  "antarctic": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "ATTX token NOT launched. Docs publish ATTX tokenomics (100M supply, 8% airdrop in batches post-launch, 45% trading/liquidity incentives; revenue buyback of ATTX) but no TGE date. Team anonymous, no audit found (per zeneca.farm).",
+    "points_program": "yes",
+    "points_note": "AX Points, Season 1 since June 8, 2026 (mainnet March 2025).",
+    "funding_usd": 7000000,
+    "funding_note": "$7M seed at $70M valuation (Valisa Capital Markets, Republic Crypto, Lucidity Capital).",
+    "launch_signal": "ATTX documented with full tokenomics; launch date unknown.",
+    "website": "https://antarctic.exchange",
+    "x_handle": null,
+    "sources": [
+      "https://zeneca.farm/antarctic",
+      "https://defillama.com/protocol/antarctic"
+    ],
+    "checked": "2026-11-21"
+  },
+  "mev-capital": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Morpho vault curator; only vault share tokens (e.g. MC.USD0 0xc0a14627d6a23f70c809777ced873238581c1032).",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/mev-capital"
+    ],
+    "checked": "2026-11-21"
+  },
+  "valantis-sthype-restaking": {
+    "token_status": "wrapped-staked-product",
+    "token_symbol": "stHYPE",
+    "token_note": "stHYPE is Valantis's liquid staking token for HYPE (HYPE already trades); restaking vault launched Oct 19, 2026, ~5.2% APY, 14-day cooldown. Whether Valantis itself has a token was NOT verified - do not claim one.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a Valantis token found.",
+    "website": "https://app.valantis.xyz",
+    "x_handle": "@ValantisLabs",
+    "sources": [
+      "https://defillama.com/protocol/valantis-sthype-restaking"
+    ],
+    "checked": "2026-11-21"
+  },
+  "pangolins": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Morpho curator (pUSDC vault on Base, ~$6.8M); no own token. MORPHO is the underlying Morpho protocol's governance token, not Pangolins'.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/pangolins"
+    ],
+    "checked": "2026-11-21"
+  },
+  "icarus-cl": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "RISE chain's central liquidity hub (CLMM, vote-lock governance model); no Icarus token found. RISE chain token not launched (CoinGecko preview listing, no price).",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/icarus-cl"
+    ],
+    "checked": "2026-11-21"
+  },
+  "subfrost": {
+    "token_status": "token-exists",
+    "token_symbol": "FIRE",
+    "token_note": "FIRE is the live governance/rewards token (Alkanes on Bitcoin L1 - no EVM contract; do not invent one). Ecosystem also has live frBTC (wrapped BTC 1:1, Alkane ID 32:0), DIESEL (emission token), frUSD stablecoin. FUEL is the planned broader governance/utility token (tokenomics not yet published).",
+    "points_program": "yes",
+    "points_note": "PERMAFROST Season 1 $FUEL farming + $FIRE rewards for DIESEL/frBTC LP.",
+    "funding_usd": 1250000,
+    "funding_note": "$1.25M from Li Hou Capital.",
+    "launch_signal": "FIRE already live; FUEL token pending.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://docs.subfrost.io/tokens/frBTC-overview",
+      "https://airdropalert.com/airdrops/subfrost/",
+      "https://defillama.com/protocol/subfrost"
+    ],
+    "checked": "2026-11-21"
+  },
+  "block-analitica": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "DeFi risk advisory/analytics firm (risk team behind Sky/MakerDAO); service provider, no token.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/block-analitica"
+    ],
+    "checked": "2026-11-21"
+  },
+  "stellar-amm": {
+    "token_status": "parent-has-token",
+    "token_symbol": "XLM",
+    "token_note": "XLM is the Stellar native token. The AMM is a built-in Stellar protocol feature, no separate token.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "n/a - built-in chain feature.",
+    "launch_signal": "Built-in chain feature; no separate token planned.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/stellar-amm"
+    ],
+    "checked": "2026-11-21"
+  },
+  "bulk": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "BULK token NOT launched. Conflicting evidence: airdrops.io says team announced BULK token + airdrop, co-founder confirmed on X that 30% of supply goes to users; zeneca.farm (Oct 26, 2026) says 'no token is promised' / share not published. Note: BULKSOL LST exists (BULKoNSGzxtCqzwTvg5hFJg8fx6dqZRScyXe5LYMfxrn, ~$4.9M mcap) - underlying SOL trades. Mainnet live Sept 5, 2026; audited by Zellic (July 2026).",
+    "points_program": "yes",
+    "points_note": "AURA, 1M/week since June 1, 2026 (post-Oct 31, 2026 AURA redirected from SOL staking to exchange activity).",
+    "funding_usd": 8000000,
+    "funding_note": "$8M seed, Sept 2025, co-led by Robot Ventures + 6th Man Ventures, with Wintermute and Big Brain Holdings.",
+    "launch_signal": "Launch signal conflicting between sources; token not launched as of Nov 2026.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://airdrops.io/bulk/",
+      "https://zeneca.farm/bulk",
+      "https://dappsatlas.com/dapp/bulk",
+      "https://defillama.com/protocol/bulk"
+    ],
+    "checked": "2026-11-21"
+  },
+  "katana-dex": {
+    "token_status": "parent-has-token",
+    "token_symbol": "RON",
+    "token_note": "RON is the Ronin chain token; Katana founded by Sky Mavis, launched 2021, governed by Ronin team. No platform token. NOTE: KAT perps ticker on Binance etc. is a different 'Katana' (Katana Network) - do not conflate.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No platform token planned; governed by Ronin team.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/katana-dex"
+    ],
+    "checked": "2026-11-21"
+  },
+  "anthias-labs": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Boutique on-chain risk advisory firm (Base; curates Moonwell Flagship Morpho vaults); no token.",
+    "points_program": "no",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/anthias-labs"
+    ],
+    "checked": "2026-11-21"
+  },
+  "syncswap": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "SYNC NOT launched as of Nov 2026 (announced, 100M total supply, TGE described as 'imminent' in Dec 2024/Jan 2025 coverage but still not launched ~2 years after first announcement in March 2023).",
+    "points_program": "yes",
+    "points_note": "Loyalty program - traders earn ySYNC (1 ySYNC per $1 gas), convertible to veSYNC.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "Token announced long ago, still unlaunched.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://www.htx.com/zh-tc/feed/community/9111622/",
+      "https://app.coinpedia.org/company/syncswap/",
+      "https://defillama.com/protocol/syncswap"
+    ],
+    "checked": "2026-11-21"
+  },
+  "metalx-swap": {
+    "token_status": "parent-has-token",
+    "token_symbol": "XPR",
+    "token_note": "XPR is the XPR Network / Proton chain token; MetalX is the primary DEX on XPR Network, built on chain-native proton.swaps contract. NOTE: XMT (MetalSwap governance token, ~$0.007-0.009, mcap ~$3.1M) trades in MetalX markets but belongs to MetalSwap (metalswap.finance), which is rebranding to Denaria with a planned 1:5 token swap to a new token (ticker/chain TBA, snapshot date TBA). Do not present XMT as MetalX Swap's own token.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a MetalX token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://docs.metalswap.finance/dao/tokenSwap",
+      "https://github.com/dougbutner/xpr-app-forge/blob/HEAD/skill/metalx-dex.md",
+      "https://defillama.com/protocol/metalx-swap"
+    ],
+    "checked": "2026-11-21"
+  },
+  "defa-by-invoicemate": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "RWA private-credit protocol (tokenized trade receivables; $7.19M across Stellar/ZIGChain/Starknet). No protocol token found.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/defa-by-invoicemate"
+    ],
+    "checked": "2026-11-21"
+  },
+  "monolith-market": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "NEW permissionless CDP protocol (Ethereum, listed May 7, 2026; TVL jumped to ~$8.9M Nov 2026) for creating crypto-backed stablecoins. NOTE: TKN token belongs to the OLD, unrelated Monolith (TokenCard debit card, shut down Oct 8, 2024) - do not attribute TKN to this protocol.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/monolith-market"
+    ],
+    "checked": "2026-11-21"
+  },
+  "fluxion-network": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Mantle native DEX (tokenized US stocks / xStocks); no token announced. Anonymous team (per zeneca.farm).",
+    "points_program": "yes",
+    "points_note": "Fluxion Points Season 1 (live; docs list future airdrop eligibility as a possible top-tier perk).",
+    "funding_usd": null,
+    "funding_note": "unknown (no investors public).",
+    "launch_signal": "Points program hints at a possible future airdrop, but no token announced.",
+    "website": "https://app.fluxion.network",
+    "x_handle": "@Fluxion_dex",
+    "sources": [
+      "https://zeneca.farm/fluxion",
+      "https://radar.cryptosigy.com/protocol/fluxion-network",
+      "https://defillama.com/protocol/fluxion-network"
+    ],
+    "checked": "2026-11-21"
+  },
+  "vault-street": {
+    "token_status": "parent-has-token",
+    "token_symbol": "RESOLV",
+    "token_note": "RESOLV is Resolv protocol's token (ETH 0x259338656198eC7A76c729514D3CB45Dfbf768A1; also BNB 0xda6cef7f667d992a60eb823ab215493aa0c6b360; ~$0.0134, mcap ~$6.7M, FDV ~$13.4M, 1B max supply). Vault Street is Resolv's institutional RWA product line / rebrand (announced Sept 2026). NOTE: Resolv suffered a March 22, 2026 exploit (unauthorized USR minting), in recovery mode; Vault Street launched June 2026 as recovery narrative.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a separate Vault Street token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://www.rwatracker.app/issuers/resolv/",
+      "https://www.ainvest.com/news/resolv-resolv-8-5-today-recovery-mode-march-exploit-weighs-sentiment-2607/",
+      "https://defillama.com/protocol/vault-street"
+    ],
+    "checked": "2026-11-21"
+  },
+  "hertzflow": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "BNB Chain self-custodial perps exchange (mainnet Aug 2026); GovToken contract deployed but DISABLED in BSC mainnet role config (per DefiLlama adapter PR #9081). Backed by YZi Labs (EASY Residency Season 2); funding amount unknown.",
+    "points_program": "yes",
+    "points_note": "Merit points (Genesis Vault + trading), expected to convert to a token allocation at an unannounced TGE (per AirdropTracker).",
+    "funding_usd": null,
+    "funding_note": "unknown (backed by YZi Labs, amount not reported).",
+    "launch_signal": "Token contract exists but disabled; TGE unannounced.",
+    "website": "https://hertzflow.xyz",
+    "x_handle": null,
+    "sources": [
+      "https://www.airdroptracker.io/airdrops?category=defi&sort=worth",
+      "https://github.com/DefiLlama/dimension-adapters/pull/9081",
+      "https://www.yzilabs.com/blog/meet-the-easy-residency-season-2-cohort",
+      "https://defillama.com/protocol/hertzflow"
+    ],
+    "checked": "2026-11-21"
+  },
+  "boros": {
+    "token_status": "parent-has-token",
+    "token_symbol": "PENDLE",
+    "token_note": "PENDLE is Pendle Finance's token; Boros is Pendle's funding-rate derivatives platform, launched Aug 2025 on Arbitrum; 'Boros does not launch a new token', 80% of fees to vePENDLE holders. PENDLE contract not verified in this research.",
+    "points_program": "no",
+    "points_note": "No points program; referral program launched.",
+    "funding_usd": null,
+    "funding_note": "unknown (Pendle's own raises not verified in this research).",
+    "launch_signal": "Boros does not launch a new token.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://www.gate.com/learn/articles/boros-devouring-de-fi-ce-fi-and-trad-fi-unlocking-pendles-next-hundredfold-growth-engine/13389",
+      "https://defillama.com/protocol/boros"
+    ],
+    "checked": "2026-11-21"
+  },
+  "turboflow-perps": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "BNB + Solana perps DEX (up to 1,000x leverage, profit-share fee model); formerly Surf Protocol (rebrand Oct 2025). No token yet.",
+    "points_program": "yes",
+    "points_note": "Points program confirmed (CryptoRank: status Confirmed, reward date TBA; point farming from Dec 23, 2025; weekly trading competitions from July 13, 2026).",
+    "funding_usd": 9000000,
+    "funding_note": "$9M total raised - $6M seed June 22, 2026 (Pantera Capital, Digital Currency Group, Susquehanna Crypto) + $3M other round.",
+    "launch_signal": "Airdrop confirmed, token not yet launched.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://CryptoRank.io/drophunting/surf-protocol-activity1225",
+      "https://cryptorank.io/ico/surf-protocol",
+      "https://defillama.com/protocol/turboflow-perps"
+    ],
+    "checked": "2026-11-21"
+  },
+  "aftermath-aflp": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Sui yield vault (afLP accepts USDC on Sui); parent Aftermath Finance. Official FAQ (foundation.aftermath.finance/about): 'There is no token, no tokenomics, and no governance program.' Note: afSUI is Aftermath's LST for SUI (underlying SUI trades) - afLP itself is the vault product.",
+    "points_program": "yes",
+    "points_note": "Points program began Dec 8, 2025, bi-weekly epochs; distributions have included liquid SUI.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "Official FAQ states there is no token, no tokenomics, no governance program.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://foundation.aftermath.finance/about",
+      "https://defillama.com/protocol/aftermath-aflp"
+    ],
+    "checked": "2026-11-21"
+  },
+  "loopscale-curation": {
+    "token_status": "parent-has-token",
+    "token_symbol": "ORCA",
+    "token_note": "Loopscale merged with Orca into 'Formation' (docs.loopscale.com/resources/formation, updated 2026-11-04): 'Will Loopscale launch its own token? No. ORCA is the token for all of Formation, including Loopscale.' ORCA contract not verified in this research.",
+    "points_program": "yes",
+    "points_note": "Loopscale Points (lending/borrowing/looping/referrals); points convert later in 2026, details TBA.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "Docs explicitly state Loopscale will not launch its own token.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://docs.loopscale.com/resources/formation",
+      "https://docs.loopscale.com/using-loopscale/points",
+      "https://defillama.com/protocol/loopscale-curation"
+    ],
+    "checked": "2026-11-21"
+  },
+  "stablehodl": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Stablecoin yield platform powered by HeLa Network; rewards paid in HLUSD (HeLa's dollar-pegged stablecoin - the chain's stablecoin, not StableHodl's own token). No StableHodl governance token found.",
+    "points_program": "yes",
+    "points_note": "'Boosted points program' (per ICOLINK listing).",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/stablehodl",
+      "https://icolink.com/ico-stablehodl.html"
+    ],
+    "checked": "2026-11-21"
+  },
+  "temple": {
+    "token_status": "parent-has-token",
+    "token_symbol": "CC",
+    "token_note": "CC (Canton Coin) is the Canton Network native token (~$0.082-0.092, mcap ~$3.3-4.1B, rank ~#25-37). Temple is the first native trading platform / dominant DEX on Canton (Temple Digital Group; ~57-85% of Canton DEX volume). CC contract not verified in this research.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": 5000000,
+    "funding_note": "Temple raised a $5M seed plus an SBI-led round (per coinewsify.ai) - treat as reported, not fully verified.",
+    "launch_signal": "No public statement about a Temple token found.",
+    "website": null,
+    "x_handle": "@Temple_ny",
+    "sources": [
+      "https://templedigitalgroup.com/canton-coin-price",
+      "https://www.coinewsify.ai/currency/canton-network",
+      "https://defillama.com/protocol/temple"
+    ],
+    "checked": "2026-11-21"
+  },
+  "granite": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Bitcoin liquidity protocol on Stacks (sBTC collateral, borrow USDCx; no rehypothecation, soft liquidations); incubated by Trust Machines. No token found.",
+    "points_program": "unknown",
+    "points_note": "Roadmap mentions future 'unique incentive structures' for LPs/borrowers - not a live program.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "Future incentives mentioned in roadmap, but no token signal.",
+    "website": "https://www.granite.world/",
+    "x_handle": null,
+    "sources": [
+      "https://www.granite.world/",
+      "https://defillama.com/protocol/granite"
+    ],
+    "checked": "2026-11-21"
+  },
+  "swan-dao": {
+    "token_status": "token-exists",
+    "token_symbol": "SWAN",
+    "token_note": "SWAN live (per unhosted.ai; 10M fixed supply, ~$0.50 on Nov 12, 2026, mcap ~$4M, only 64 holders, thin ~$57K liquidity - flag thin/unverified). Launched Oct 22, 2026; Monolith-instance CDP issuing swanUSD stablecoin (0x9bf2b2f57a2968a0e81546ed50cbbbb7c9d6e05e); revenue distributed to SWAN stakers (sSWAN). DISTINCT from Swan Chain (different SWAN token, L2 AI chain). Token contract: 0xd0a32f6d4850f9d6df7d4f8f84af1fcd3cf993cc (Ethereum).",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "Token already live.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://staging.tidresearch.com/protocols/swan-dao/",
+      "https://pharos.watch/stablecoin/swanusd-swan/",
+      "https://www.unhosted.ai/predictions/ethereum/0xd0a32f6d4850f9d6df7d4f8f84af1fcd3cf993cc/swan",
+      "https://defillama.com/protocol/swan-dao"
+    ],
+    "checked": "2026-11-21"
+  },
+  "btcfi-cdp": {
+    "token_status": "parent-has-token",
+    "token_symbol": "BNC",
+    "token_note": "BNC is the Bifrost native token (~$0.0093-0.0095, mcap ~$355-465K, 80M max supply per most sources). BTCFi CDP is Bifrost's CDP product (Bifrost Network / Bitcoin / Base / CORE). BNC contract not verified in this research.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a separate BTCFi token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://bingx.com/en/price/bifrost-native-coin",
+      "https://www.kraken.com/es-es/learn/what-is-bifrost-bnc",
+      "https://defillama.com/protocol/btcfi-cdp"
+    ],
+    "checked": "2026-11-21"
+  },
+  "mezzanine": {
+    "token_status": "token-exists",
+    "token_symbol": "mzUSD",
+    "token_note": "mzUSD is the protocol's live synthetic dollar (1:1 USDC-backed ERC-20) + tranche tokens smzUSD (senior), MLT (mezzanine), JLT (junior); governance-operated structured yield protocol (Ethereum + Solana). No separate governance token found. mzUSD contract not verified in this research. Audited by ChainSecurity (Apr 30, 2026) + Sherlock (Feb-Mar 2026).",
+    "points_program": "yes",
+    "points_note": "Season 1 points; Pre-Deposit Ecosystem Vault from July 1, 2026 (highest Season 1 multiplier).",
+    "funding_usd": null,
+    "funding_note": "unknown ('no major VC backing' per one source).",
+    "launch_signal": "Stablecoin + tranche tokens live; no governance-token signal found.",
+    "website": "https://mezz.finance",
+    "x_handle": "@mezzanine_fi",
+    "sources": [
+      "https://chainsecurity.com/reports/Mezzanine/ChainSecurity_MezzanineFoundation_MezzanineFinance_Audit.pdf",
+      "https://www.thedefinvestor.com/p/three-airdrops-to-farm-in-q4",
+      "https://DeFiLlama.com/protocol/mezzanine"
+    ],
+    "checked": "2026-11-21"
+  },
+  "damm-capital": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Buenos Aires onchain asset manager; curates Morpho lending markets (incl. Twin Finance LATAM stablecoins). Fund DAMMstable is an ERC-7540 async tokenized vault (Arbitrum) - a vault share token, not a protocol token. No DAMM token found.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": "https://dammcap.finance",
+    "x_handle": "@DAMM_Capital",
+    "sources": [
+      "https://dammcap.finance/funds/dammstable/",
+      "https://www.diadata.org/blog/post/twin-finance-damm-capital-latin-american-currencies-onchain/",
+      "https://defillama.com/protocol/damm-capital"
+    ],
+    "checked": "2026-11-21"
+  },
+  "alphagrowth": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Analytics/growth platform ('grows TVL for protocols and chains through asset acquisition and integration, grants, incentives and LP deals'); also curates Euler vaults (AlphaGrowth Base RWA, AlphaGrowth Mainnet RWA). No alphagrowth token found. Unrelated 'AG' tokens exist (Alpha Gardeners AG, Aradena AG) - not this platform's token.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": "https://alphagrowth.io",
+    "x_handle": null,
+    "sources": [
+      "https://alphagrowth.io/alpha-gardeners",
+      "https://tradingstrategy.ai/vaults/stablecoins/reusd",
+      "https://defillama.com/protocol/alphagrowth"
+    ],
+    "checked": "2026-11-21"
+  },
+  "flying-tulip-ftusd": {
+    "token_status": "token-exists",
+    "token_symbol": "FT",
+    "token_note": "FT is Flying Tulip's live native token (CoinGecko #360, mcap ~$68.26M, 490M circulating, FDV ~$72.5M, 10B hard cap, LayerZero OFT on Ethereum/Sonic/BSC/Avalanche/Base; revenue-funded buyback-and-burn). ftUSD is the protocol's dollar-pegged stablecoin product (supply $5.54M as of Nov 1, 2026). FT contract not verified in this research. Launched Feb 23, 2026.",
+    "points_program": "unknown",
+    "points_note": "No points program found; yield paid in FT.",
+    "funding_usd": null,
+    "funding_note": "unknown ('successful raise' mentioned, amount not stated).",
+    "launch_signal": "Token already live.",
+    "website": "https://flyingtulip.com",
+    "x_handle": null,
+    "sources": [
+      "https://www.coingecko.com/en/coins/flying-tulip",
+      "https://blog.flyingtulip.com/flying-tulip-october-update/",
+      "https://docs.flyingtulip.com/product-suite/ft-usd/",
+      "https://defillama.com/protocol/flying-tulip-ftusd"
+    ],
+    "checked": "2026-11-21"
+  },
+  "goonfi": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Solana DEX (appears in Blockworks tokenized-equities volume data). No official GoonFi token found. Multiple unrelated same-ticker GOONFI tokens exist on DEX Screener (tiny liquidity, memecoins) and one GOONFI is the native token of 'Anna Fantasy', an AI NSFW content platform - none verified as the DEX's token.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://dexscreener.com/solana/cc9kgsbrwwdhffqqfuxwumt2jptq3cm78z2emkrrurav",
+      "https://defillama.com/protocol/goonfi"
+    ],
+    "checked": "2026-11-21"
+  },
+  "monarq": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Digital asset manager curating the MXRPY yield vault on Flare (via Upshift); FalconX-majority-owned. MXRPY is the vault's share token (FXRP-based), not a Monarq governance token. Flare's FLR is the chain token, not Monarq's.",
+    "points_program": "unknown",
+    "points_note": "No points program found.",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://defillama.com/protocol/monarq",
+      "https://www.theblock.co/news/defi/2026-05-19-xrp-alliance-debuts-as-flare-dcent-link-hardware-wallets-to-xrp-yield-vaults-401828"
+    ],
+    "checked": "2026-11-21"
+  },
+  "nucleus": {
+    "token_status": "no-token-found",
+    "token_symbol": null,
+    "token_note": "Default yield provider for networks (e.g. Plume Optimizer, powered by Nucleus); embeds yield at the network layer across Arbitrum, Ethereum, Plume, Swell. No Nucleus token found. Plume's PLUME is the chain token, not Nucleus's.",
+    "points_program": "unknown",
+    "points_note": "No Nucleus points program found (Plume Royco incentives are paid in PLUME, Plume's own program).",
+    "funding_usd": null,
+    "funding_note": "unknown",
+    "launch_signal": "No public statement about a future token found.",
+    "website": null,
+    "x_handle": null,
+    "sources": [
+      "https://alphagrowth.io/nucleus-ip2",
+      "https://www.plume.org/blog/royco-markets",
+      "https://defillama.com/protocol/nucleus"
+    ],
+    "checked": "2026-11-21"
+  }
+}
